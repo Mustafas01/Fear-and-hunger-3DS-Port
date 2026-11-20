@@ -1,0 +1,31 @@
+# --- Converted game data: comes from YOUR copy of the game, never commit ---
+out/
+output/
+sdmc/
+fearmap/
+*.t3x
+*.bnr
+*.icn
+report*.txt
+fbi_qr.png
+title_preview.png
+
+# --- Build products ---
+build/
+*.3dsx
+*.elf
+*.smdh
+*.cia
+romfs/
+
+# --- Tools you download yourself (not ours to redistribute) ---
+cia/makerom*
+cia/bannertool*
+
+# --- Python / editor junk ---
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
