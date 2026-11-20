@@ -1,0 +1,6 @@
+events.c
+main.c
+runtime.c
+linking fear_map.elf
+built ... fear_map.smdh
+built ... fear_map.3dsx
