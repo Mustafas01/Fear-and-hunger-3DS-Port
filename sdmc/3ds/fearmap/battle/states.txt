@@ -1,0 +1,110 @@
+1	4	0	1	1	0	0	100	100	0	 has fallen!	 is slain!	Knockout
+2	0	2	1	1	1	0	100	0	0	-	-	Guard
+3	0	0	1	1	0	0	100	1	0	 loses arm!	-	Arm cut
+4	0	0	1	1	0	0	100	1	0	 is poisoned!	 is poisoned!	Anus bleed
+5	0	0	1	1	0	0	100	50	-3	-	-	Bleeding
+6	0	1	3	5	1	0	100	65	0	 is silenced!	 is silenced!	Silence
+7	1	1	2	4	1	1	50	70	0	 is enraged!	 is enraged!	Rage
+8	2	1	2	4	1	1	50	75	0	 is confused!	 is confused!	Confusion
+9	3	1	2	4	1	1	50	80	0	 is fascinated!	 is fascinated!	Fascination
+10	4	1	3	5	1	1	100	90	0	 falls asleep!	 falls asleep!	Sleep
+11	0	1	3	5	1	0	100	60	0	 is blinded!	 is blinded!	Blind
+12	0	2	1	1	0	0	100	50	0	-	 is shielded!	Perfect defence
+13	4	0	1	1	1	0	100	50	0	-	-	Can't do shit
+14	0	0	1	1	0	0	100	1	0	 loses leg!	-	Leg cut
+15	0	0	2	2	0	1	100	50	0	-	-	Terror
+16	4	2	2	2	1	0	100	46	0	-	-	Confused
+17	0	0	1	1	0	0	100	50	-10	-	-	Poisoned
+18	0	0	1	1	1	0	100	50	0	-	-	Speed buff
+19	0	0	1	1	0	0	100	1	0	 is poisoned!	 is poisoned!	Fracture
+20	0	2	5	5	1	0	100	50	0	-	-	Attack buff
+21	0	2	5	5	1	0	100	50	0	-	-	Evasion buff
+22	0	0	2	2	1	1	100	50	0	-	-	Critical state
+23	0	2	2	2	1	0	100	50	0	-	-	Vulnerable
+24	0	0	2	2	1	0	100	50	0	-	-	Arrow loss
+25	1	2	3	4	1	1	50	70	0	 is enraged!	 is enraged!	Bloodlust
+26	0	0	3	3	1	0	100	50	0	-	-	Counter
+27	0	0	5	5	0	0	100	50	0	-	-	salmonsnake_blind
+28	4	2	2	2	1	0	100	46	0	-	-	Confused_enemy
+29	0	0	1	1	0	0	100	50	-10	-	-	Bleeding_enemy
+30	0	0	1	1	0	0	100	50	0	-	-	Soul sucked
+31	0	0	1	1	0	0	100	50	0	-	-	Headless
+32	0	2	3	3	1	0	100	50	0	-	-	Perfect guard
+33	0	0	1	1	0	0	100	50	0	-	-	Happy
+34	0	0	1	1	0	0	100	50	0	-	-	Depressed
+35	0	0	1	1	0	0	100	50	0	-	-	Talk
+36	4	2	1	2	1	0	100	50	0	-	-	Can't do shit - one turn
+37	0	0	3	3	1	0	100	50	0	-	-	Counter enemy
+38	0	0	1	1	0	0	100	50	0	-	-	
+39	0	0	1	1	0	0	100	50	0	-	-	Hunger LVL 1
+40	0	0	1	1	0	0	100	50	0	-	-	Hunger LVL 2
+41	0	0	1	1	0	0	100	50	0	-	-	Hunger LVL 3
+42	0	0	1	1	0	0	100	50	0	-	-	Hunger LVL 4
+43	0	0	1	1	0	0	100	50	0	-	-	Hunger LVL 5
+44	0	0	1	1	0	0	100	50	0	-	-	Fear LVL 1
+45	0	0	1	1	0	0	100	50	0	-	-	Fear LVL 2
+46	0	0	1	1	0	0	100	50	0	-	-	Fear LVL 3
+47	0	0	1	1	0	0	100	50	0	-	-	Fear LVL 4
+48	0	0	1	1	0	0	100	50	0	-	-	Fear LVL 5
+49	0	0	1	1	0	0	100	50	0	-	-	Blindness
+50	0	0	1	1	0	0	100	50	0	-	-	
+51	0	0	1	1	0	0	100	50	0	-	-	Food small
+52	0	0	1	1	0	0	100	50	0	-	-	Food medium
+53	0	0	1	1	0	0	100	50	0	-	-	Food large
+54	0	0	1	1	0	0	100	50	0	-	-	
+55	0	0	1	1	0	0	100	50	0	-	-	Infection leg
+56	0	0	1	1	0	0	100	50	0	-	-	Infection arm
+57	0	0	1	1	0	0	100	50	0	-	-	Enemy DEFENCE UP
+58	0	0	1	1	0	0	100	50	0	-	-	Enemy ATTACK UP
+59	0	1	1	2	0	0	100	50	0	-	-	Stunned!
+60	4	2	1	1	0	0	100	50	0	-	-	Can't do shit- ONE TURN
+61	0	0	1	1	0	0	100	50	0	-	-	Parasites
+62	0	0	1	2	1	0	100	50	0	-	-	Weakness
+63	0	0	1	1	1	0	100	50	0	-	-	Phobia
+64	0	0	1	2	1	0	100	50	0	-	-	Weakness2
+65	0	0	1	1	0	0	100	50	0	-	-	Zoophobia
+66	0	0	1	1	0	0	100	50	0	-	-	Necrophobia
+67	0	0	1	1	0	0	100	50	0	-	-	Panophobia
+68	0	0	1	1	0	0	100	50	0	-	-	Phasmophobia
+69	0	0	1	1	0	0	100	50	0	-	-	Rhabdophobia
+70	0	0	1	1	0	0	100	50	0	-	-	Teratophobia
+71	0	0	1	1	0	0	100	50	0	-	-	Erotophobia
+72	4	2	2	2	1	0	100	50	0	-	-	Can't do shit - two turn
+73	0	2	3	3	1	0	100	50	0	-	-	Weakness_temp_invisible
+74	0	2	2	2	1	0	100	50	0	-	-	Weakness_temp
+75	0	2	2	1	0	0	100	50	0	-	-	Burns
+76	0	0	1	1	0	0	100	50	0	-	-	Check
+77	0	0	1	1	0	0	100	50	0	-	-	
+78	0	2	1	2	1	0	100	50	0	-	-	Backstab_attack
+79	4	2	1	1	0	0	100	50	0	-	-	arm_leg_cut- ONE TURN
+80	0	0	1	1	0	0	100	50	0	-	-	BONESAW
+81	0	0	1	1	1	0	100	50	0	-	-	ACID
+82	0	0	1	1	0	0	100	50	0	-	-	
+83	0	0	5	5	1	0	100	50	0	-	-	Attack debuff
+84	0	0	5	5	1	0	100	50	0	-	-	Defence debuff
+85	0	0	1	1	0	0	100	50	0	-	-	death_incoming
+86	0	0	6	6	1	0	100	50	0	-	-	Curse
+87	0	0	1	1	0	0	100	50	0	-	-	Face rip
+88	0	0	1	1	1	0	100	50	-10	-	-	Burning
+89	0	2	4	4	0	0	100	50	0	-	-	Defence down
+90	0	0	1	1	0	0	100	50	-20	-	-	Toxic
+91	0	0	1	1	0	0	100	50	0	-	-	RESIST DEATH
+92	0	0	1	1	0	0	100	50	0	-	-	
+93	0	0	1	1	0	0	100	50	0	-	-	Blindness2
+94	0	0	6	6	1	0	100	50	0	-	-	Curse2
+95	4	0	2	2	1	0	100	46	0	-	-	Paralyzed
+96	0	0	1	1	0	0	100	50	0	-	-	Ruin1
+97	0	0	1	1	0	0	100	50	0	-	-	Ruin2
+98	0	0	1	1	1	0	100	50	0	-	-	ruined1
+99	2	0	1	1	0	0	100	50	0	-	-	Brain flower
+100	0	0	1	1	1	0	100	50	0	-	-	Taunt
+101	0	0	1	1	1	0	100	50	0	-	-	Taunt
+102	0	0	1	1	1	0	100	50	0	-	-	No criticals!
+103	0	0	1	1	1	0	100	50	0	-	-	taunt_invicible
+104	0	0	1	1	0	0	100	50	0	-	-	Split
+105	4	0	3	3	1	0	100	50	-10	-	-	Tentacles
+106	0	0	1	1	0	0	100	50	0	-	-	
+107	0	0	1	1	0	0	100	50	0	-	-	
+108	0	0	1	1	0	0	100	50	0	-	-	
+109	0	0	1	1	0	0	100	50	0	-	-	
+110	0	0	1	1	0	0	100	50	0	-	-	

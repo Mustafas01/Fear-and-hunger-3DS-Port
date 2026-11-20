@@ -1,0 +1,340 @@
+1	0	0	0	1	1	1	100	1	-1	20	1	21:0:1:0	a.atk * 4 - b.def * 2	 attacks!	Attack
+2	0	0	0	11	1	0	100	0	0	20	0	21:2:1:0;44:153:1:0	0	 guards.	Guard
+3	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	35	 hacks with a buthcer knife!	Hack
+4	0	0	1	1	0	0	100	1	3	20	0	-	45	-	Stinger thrust
+5	0	0	0	1	0	0	100	0	0	20	0	-	0	-	The stinger is pulsating...
+6	0	0	0	1	0	0	100	1	1	20	0	-	20	-	Tackle
+7	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The monster takes a step closer...
+8	0	0	1	11	1	0	100	0	0	20	0	21:18:1:0	0	-	Fast attack
+9	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Sense
+10	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Pinecone pig
+11	0	0	1	2	1	0	100	0	0	20	0	44:14:1:0	0	-	Talk
+12	40	0	1	1	1	2	100	1	6	0	0	-	350	-	Hurting
+13	0	0	0	1	0	0	100	1	2	10	1	21:5:0.25:0;21:56:0.3:0;21:55:0.3:0	10	-	Scratch
+14	0	0	0	1	0	0	100	0	0	20	0	-	0	-	The creature seems strained and stressed...
+15	0	0	0	1	0	0	100	0	0	20	0	-	0	-	Priest waves his lantern...
+16	0	0	0	1	0	0	100	1	1	20	0	-	10	-	Tackle
+17	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Prisoners's head is twitching...
+18	0	0	1	1	0	1	75	1	4	20	0	21:88:0.6:0;21:75:1:0	30	-	Lantern
+19	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Priest chants something...
+20	0	0	2	1	0	0	100	0	0	20	0	44:15:1:0	0	-	Priest chants something...
+21	30	0	1	1	3	0	100	0	0	20	0	-	0	-	Necromancy
+22	0	0	1	1	0	0	100	0	0	20	0	44:18:1:0	0	-	Beheaded wizard laughs at you
+23	0	0	0	1	1	1	89	1	2	20	0	21:3:1:0;44:240:1:0	35	 hacks with a buthcer knife!	Hack
+24	0	0	0	1	0	0	80	1	2	20	0	-	25	-	Tail whip
+25	0	0	1	11	0	0	100	0	0	20	0	44:27:1:0	0	-	Shield
+26	0	0	0	1	0	0	100	1	2	20	0	21:5:0.25:0;21:56:0.3:0;21:55:0.3:0	10	-	Gnaw
+27	0	0	0	1	1	1	90	1	3	20	0	21:3:1:0;44:240:1:0	30	-	One tooth bite
+28	0	0	0	1	1	1	90	1	3	20	0	21:14:1:0;44:240:1:0	30	-	One tooth bite
+29	0	0	0	1	1	1	90	1	3	20	0	-	30	-	One tooth bite
+30	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Cavemother is tilting it's head...
+31	0	0	1	2	1	0	100	0	0	20	0	44:36:1:0	0	-	Steal
+32	0	0	1	2	0	1	75	1	4	20	0	21:88:0.6:0	30	-	Explosion
+33	0	0	1	1	0	0	100	1	0	20	0	21:17:1:0	5	-	Poison tongue
+34	0	0	1	0	2	0	100	0	0	20	0	44:37:1:0	0	-	Suicide
+35	0	0	0	1	1	1	89	1	2	20	0	21:3:1:0;21:56:0.5:0;44:240:1:0	40	 hacks with a buthcer knife!	Crude sword
+36	0	0	0	1	1	1	89	1	2	20	0	21:14:1:0;21:55:0.5:0;44:240:1:0	30	 hacks with a buthcer knife!	Low sweep
+37	0	0	1	0	0	0	100	0	0	20	0	-	0	-	Lizardman is licking it's lips...
+38	0	0	1	0	0	0	100	0	0	20	0	-	0	-	Lizardman is showing off his martial arts.
+39	0	0	2	1	0	0	100	0	0	20	0	44:56:1:0	0	-	The monster lowers it's stance...
+40	0	0	1	8	1	0	100	0	0	20	0	44:46:1:0	0	-	Run
+41	0	0	0	1	0	0	100	1	2	18	0	21:5:1:0;21:22:0.7:0;21:56:0.5:0	35	-	Critical slash
+42	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Yellow mage begins it's ritual dance...
+43	40	0	1	1	0	0	90	1	6	0	0	21:3:1:0;21:5:1:0;44:240:1:0	50	-	Hurting
+44	40	0	1	1	0	0	90	1	6	0	0	21:14:1:0;21:5:1:0;44:240:1:0	50	-	Hurting
+45	0	0	1	2	0	1	100	1	2	20	0	21:3:0.2:0;21:56:0.3:0;21:55:0.3:0;44:240:1:0	30	-	Horizontal sweep
+46	0	0	1	1	0	1	100	1	2	20	0	21:3:1:0;44:240:1:0	45	-	Vertical sweep
+47	0	0	1	1	0	1	100	1	2	20	0	21:14:1:0;44:240:1:0	45	-	Vertical sweep
+48	35	0	1	2	1	2	100	1	1	20	0	21:28:1:0	10	-	Locust swarm
+49	0	0	1	2	0	0	100	1	1	20	0	21:16:0.8:0	10	-	Locust swarm
+50	0	0	1	1	0	0	100	0	0	20	0	21:23:1:0	0	-	Guard break
+51	0	0	1	11	1	0	100	1	0	20	0	44:64:1:0	20	-	Blood golem
+52	0	0	0	1	0	0	100	2	6	10	1	-	10	-	Shivering touch
+53	0	0	1	1	0	0	100	1	0	20	0	21:17:1:0	10	-	Mumbler's head explodes on you!
+54	20	0	1	0	3	0	100	0	0	20	0	-	0	-	Demon seed
+55	10	0	1	7	1	0	95	0	0	20	0	21:103:1:0;21:100:1:0	0	-	Pheromones
+56	0	0	1	0	3	0	100	0	0	20	0	-	0	-	Mastery over insects
+57	0	0	1	1	0	0	100	1	1	20	0	21:16:0.7:0	25	-	Rock smash
+58	0	0	2	1	0	0	100	0	0	20	0	-	0	-	The guard loads an arrow to ballista...
+59	0	0	0	1	1	1	90	1	3	20	0	21:5:1:0	60	-	Ballista
+60	0	0	0	1	0	0	90	1	1	20	0	21:16:0.6:0	30	-	Smash
+61	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Salmonsnake is tensing up...
+62	0	0	1	1	0	0	100	0	0	20	0	44:76:1:0	0	-	Snatch
+63	0	0	0	1	0	0	90	1	1	20	0	-	30	-	Headbutt
+64	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Salmonsnake is uncertain of your position...
+65	0	0	1	1	0	0	100	0	0	20	0	-	0	-	---
+66	0	0	1	11	1	0	100	0	0	20	0	21:18:1:0	0	-	Fast attack
+67	0	0	1	11	1	0	100	0	0	20	0	21:26:1:0	0	-	Counter
+68	0	0	1	11	1	0	100	0	0	20	0	21:32:1:0;21:21:1:0	0	-	Defence stance
+69	0	0	1	1	0	0	100	0	0	20	0	-	0	-	---
+70	0	0	1	2	1	0	100	0	0	20	0	44:36:1:0	0	-	Steal
+71	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Dash
+72	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Lockpicking
+73	0	0	1	1	0	0	100	0	0	20	0	-	0	-	---
+74	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Greater blood magic
+75	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Blood sacrifice
+76	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Pray
+77	0	0	1	1	0	0	100	0	0	20	0	-	0	-	---
+78	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Devour
+79	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Marksmanship
+80	10	0	1	11	1	0	100	0	0	20	0	21:25:1:0	0	-	Bloodlust
+81	0	0	1	1	0	0	100	0	0	20	0	-	0	-	---
+82	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Salmonsnake is uncertain of your position...
+83	0	0	1	1	0	0	100	2	0	10	0	21:30:1:0;44:240:1:0	0	-	Soul binding
+84	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Mumblers head is pulsating...
+85	0	0	0	1	1	1	100	0	2	20	0	21:31:1:0;44:240:1:0	30	-	Peck
+86	0	0	0	1	0	0	100	1	1	20	0	-	20	-	Tackle
+87	0	0	1	7	2	0	100	0	0	20	0	21:35:1:0;44:80:1:0	0	-	Talk
+88	0	0	0	1	0	1	100	1	3	20	0	21:5:0.6:0	80	-	Bite
+89	0	0	0	11	0	2	100	0	0	20	0	21:20:1:0	30	-	Howl
+90	0	0	0	1	0	1	100	1	3	20	0	21:5:0.9:0;21:56:0.3:0;21:55:0.3:0	35	-	Bite
+91	0	0	0	1	0	1	100	1	3	20	0	21:5:0.6:0	130	-	Jagged jaw
+92	0	0	0	1	0	1	100	1	3	20	0	21:16:1:0;21:5:0.6:0	200	-	Grim jaw
+93	0	0	0	1	0	0	95	1	1	10	0	21:19:1:0;21:56:0.3:0;21:55:0.3:0	40	-	Maul
+94	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Crow Mauler is staring you with it's empty eyes...
+95	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Harvestman gently pets you.
+96	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Harvestman whistles...
+97	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Harvestman whistles...
+98	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Harvestman smiles at you.
+99	0	0	2	1	0	0	100	0	0	20	0	44:92:1:0	0	-	Harvestman wraps you gently with his arms.
+100	0	0	4	4	1	1	91	1	-1	20	1	-	17	 attacks!	Attack
+101	0	0	1	1	0	0	100	0	0	20	0	-	0	-	--Greater magic---
+102	10	0	1	1	1	2	100	1	6	0	0	-	350	-	Greater Hurting
+103	0	0	1	11	1	0	100	1	6	20	0	44:64:1:0	5	-	Greater Blood golem
+104	30	0	1	1	3	0	100	0	0	20	0	-	0	-	Greater Necromancy
+105	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+106	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+107	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+108	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+109	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The spectre tilts it's sword sideways...
+110	0	0	0	1	1	1	90	1	1	20	0	21:19:1:0	35	 hacks with a buthcer knife!	Lantern smash
+111	0	0	0	1	1	1	90	1	1	20	1	-	20	 attacks!	Skeleton kick
+112	0	0	0	1	1	1	89	1	2	20	0	21:56:0.3:0;21:55:0.3:0	35	 hacks with a buthcer knife!	Skeleton hatchet
+113	0	0	0	1	1	1	89	1	2	20	0	-	15	 hacks with a buthcer knife!	Whip
+114	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Manebas tentacle is swinging around.
+115	0	0	1	0	1	0	100	0	0	20	0	44:138:1:0	0	-	Counter-magic
+116	0	0	1	1	0	0	90	1	3	20	0	21:55:0.7:0	20	-	Nasty bite
+117	0	0	1	1	0	0	90	1	3	20	0	21:56:0.7:0	20	-	Nasty bite
+118	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The ghoul stares at you with it's dead fish eyes...
+119	0	0	1	1	0	0	100	1	4	20	0	21:88:0.6:0	50	-	Cinder
+120	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+121	0	0	0	3	1	1	100	1	-1	20	1	21:0:1:0	a.atk * 4 - b.def * 2	 attacks!	Attack
+122	5	0	1	4	1	2	95	5	5	20	0	-	2	-	Needle worm
+123	0	0	1	4	1	0	95	5	5	20	0	-	2	-	Needle worm
+124	0	0	1	2	0	0	100	0	0	20	0	-	0	-	Necromancy
+125	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The yellow mage forms magical hand signs...
+126	0	0	4	4	1	1	91	1	2	20	1	21:3:0.95:0;21:5:0.95:0;44:240:1:0	30	 attacks!	Attack
+127	0	0	1	1	0	0	90	1	6	0	0	21:14:1:0;21:5:1:0;44:240:1:0	50	-	Hurting
+128	0	0	1	1	0	0	90	1	6	0	0	21:3:1:0;21:5:1:0;44:240:1:0	50	-	Hurting
+129	0	0	0	1	0	0	95	1	2	10	0	21:19:0.7:0;21:56:0.2:0;21:55:0.2:0	30	-	Revolution tear
+130	0	0	1	1	0	0	100	0	0	20	0	-	0	-	3rd circle swings around it's axis.
+131	0	0	1	1	0	0	100	0	0	20	0	-	0	-	2nd circle swings around it's axis.
+132	0	0	1	1	0	0	100	0	0	20	0	-	0	-	1st circle swings around it's axis.
+133	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+134	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The red man reaches for you...
+135	0	0	1	1	0	0	100	2	0	20	0	-	20	-	Shivering scream
+136	20	0	1	2	1	0	100	0	0	20	0	44:147:1:0	0	-	Leg sweep
+137	0	0	1	7	2	0	100	0	0	20	0	21:76:1:0;44:143:1:0	0	-	Check
+138	0	0	1	1	0	0	100	1	1	20	0	21:16:0.3:0	30	-	Red grasp
+139	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Red man breathes heavily...
+140	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Red man is tapping its fingers.
+141	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The tormented one closes on you...
+142	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The left arm twitches...
+143	0	0	0	4	1	1	90	1	1	15	1	21:0:1:0	10	 attacks!	Pummel
+144	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The right arm twitches...
+145	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+146	0	0	1	1	3	0	100	0	0	20	0	-	0	-	En garde
+147	0	0	0	1	1	1	90	1	3	20	0	21:5:0.5:0;21:17:0.8:0	35	 hacks with a buthcer knife!	Ritual spear
+148	0	0	1	0	3	0	100	0	0	20	0	-	0	-	Blood portal
+149	30	0	1	1	1	2	100	1	3	20	0	21:49:1:0;21:93:1:0	70	-	Flock of crows
+150	20	0	1	1	1	2	95	1	6	20	0	-	160	-	Black orb
+151	30	0	1	8	0	0	100	3	0	20	0	-	35	-	Healing whispers
+152	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Marriage of flesh
+153	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Insect armor
+154	0	0	1	1	0	0	90	1	0	20	0	-	30	-	Hairy palm
+155	0	0	1	1	0	0	90	1	0	20	0	21:17:0.95:0	20	-	Bad breath
+156	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The snatcher tilts it heads curiously...
+157	0	0	1	3	0	0	90	1	0	20	0	-	5	-	The fur of the creature attracts flies.
+158	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The creature reaches out for you...
+159	0	0	0	1	1	1	89	1	3	20	0	21:61:0.9:0	15	 hacks with a buthcer knife!	Inject
+160	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Maneba stares at you without expression...
+161	0	0	1	1	1	0	100	1	3	20	0	21:49:0.4:0;44:240:1:0	20	-	Flock of crows
+162	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+163	0	0	0	1	0	0	100	1	1	20	0	-	13	-	Poke
+164	0	0	1	11	0	0	100	0	0	20	0	-	0	-	Scarab's shell bursts open!
+165	0	0	0	1	0	0	100	1	0	20	0	21:81:1:0	10	-	Acid spills out
+166	0	0	1	1	0	0	100	1	2	20	0	21:17:1:0;21:56:0.3:0;21:55:0.3:0	30	-	Ritual knife
+167	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The beast wants to manhandle you...
+168	0	0	1	0	0	0	100	0	0	20	0	-	0	-	Arm of the beast twitches...
+169	0	0	0	1	1	1	100	0	2	20	0	21:104:1:0;44:240:1:0	30	-	Helmbreaker
+170	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The monster takes a step closer...
+171	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The heart is beating slowly...
+172	0	0	1	1	0	0	100	1	2	20	0	21:3:0.95:0;21:5:0.9:0;44:240:1:0	50	-	Blade dance
+173	0	0	1	1	0	0	100	1	2	20	0	21:3:0.7:0;21:5:0.9:0;44:240:1:0	30	-	Single blade
+174	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The arm is twitching restlessly...
+175	0	0	1	1	0	0	95	1	6	22	0	-	30	-	Black orb
+176	0	0	0	1	0	0	100	1	1	20	0	-	30	-	Smash
+177	0	0	0	1	1	1	90	1	1	20	0	21:19:1:0	35	 hacks with a buthcer knife!	Axe kick
+178	0	0	0	1	0	0	100	1	2	10	1	21:5:0.25:0;21:56:0.4:0;21:55:0.4:0	10	-	Rusty claw
+179	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The embryo tries to grab onto you!
+180	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Dislocating joints
+181	0	0	1	1	0	0	100	2	0	20	0	21:95:1:0	10	-	The embryo is gnawing your feet!
+182	0	0	0	2	0	0	90	1	1	20	0	-	15	-	Headbutt
+183	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Left-brain is calculating the situation...
+184	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Right-brain tries to come up with creative ways to combat...
+185	0	0	1	1	0	0	100	2	6	20	0	21:86:1:0;21:94:1:0	35	-	Whispers of Gro-goroth
+186	0	0	1	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The Left-brain sends a signal to the head...
+187	0	0	1	1	0	0	100	0	0	20	0	44:185:1:0	0	-	The Right-brain sends a signal to the head...
+188	10	0	1	0	3	0	100	0	0	20	0	-	0	-	Walk on water
+189	15	0	1	0	2	0	100	0	0	20	0	44:186:1:0	0	-	Simple transmutation
+190	0	0	1	1	0	2	75	1	4	20	0	21:88:0.6:0	30	-	Combustion
+191	0	0	1	2	1	0	100	0	0	20	0	-	0	-	Dodge roll
+192	0	0	0	1	1	1	90	1	1	20	1	-	20	 attacks!	Kick
+193	0	0	2	1	0	0	100	1	0	20	0	21:87:1:0	5	-	Face rip
+194	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	Sking granny slowly stumbles forward......
+195	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The leg is hanging loose.
+196	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	35	 hacks with a buthcer knife!	Cutlass
+197	0	0	1	1	0	0	75	1	4	20	0	21:88:0.6:0	30	-	Pyromancy trick
+198	0	0	1	1	0	0	90	1	4	20	0	21:88:1:0	20	-	Molten gold
+199	10	0	1	1	1	1	92	1	4	20	0	21:88:0.6:0;21:75:1:0	200	-	Pyromancy trick
+200	0	0	1	1	1	1	95	1	4	20	0	21:88:0.6:0;21:75:1:0	400	-	Combustion
+201	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+202	0	0	1	1	0	0	75	1	4	20	0	21:88:0.6:0	30	-	Lantern
+203	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The golden body of Francois is shining bright.
+204	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	Francois takes a step forward...
+205	0	0	1	1	0	0	100	1	1	20	0	-	5	-	Suckerpunch
+206	0	0	0	1	1	1	89	1	2	20	0	21:14:0.95:0;21:5:0.95:0;44:240:1:0	30	 hacks with a buthcer knife!	Leg sweep
+207	0	0	4	4	1	1	91	1	2	20	1	21:3:0.95:0;21:5:0.95:0;44:240:1:0	35	 attacks!	Attack
+208	0	0	1	1	0	0	100	1	1	20	0	21:89:1:0	5	-	Shield bash
+209	0	0	1	8	0	0	100	3	0	20	0	-	300	-	Light blue vial
+210	0	0	1	1	0	0	100	0	0	20	0	44:189:1:0	0	-	Steal
+211	0	0	4	3	1	1	91	1	3	20	1	21:5:0.95:0	35	 attacks!	Attack
+212	0	0	4	3	1	1	91	0	-1	20	1	44:4:1:0	35	 attacks!	The outlander aims carefully...
+213	0	0	0	1	1	1	100	0	2	20	0	21:31:1:0	30	-	Marksmanship
+214	0	0	1	1	0	0	100	1	3	20	0	-	45	-	Gaping mouth
+215	0	0	2	1	0	0	100	0	0	20	0	44:190:1:0	0	-	Summon Asterisk
+216	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	Salvation
+217	0	0	1	1	0	0	100	1	0	20	0	21:17:1:0	5	-	Poison tongue
+218	0	0	1	8	1	0	100	3	0	20	0	-	70	-	Healing whispers
+219	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+220	0	0	1	1	0	0	100	1	4	20	0	21:88:0.9:0	30	-	Purifying ember
+221	0	0	1	1	0	0	100	1	4	20	0	21:88:0.98:0	50	-	Purifying black flames
+222	0	0	1	1	0	0	100	1	1	20	0	-	10	-	Stampede of arms
+223	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The creature is wriggling in pain...
+224	0	0	1	1	0	0	90	1	0	20	0	21:17:1:0	20	-	Toxic mist
+225	0	0	1	1	0	0	100	1	3	20	0	21:5:0.9:0	25	-	Body needles
+226	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Blank stare
+227	0	0	0	1	0	0	100	1	1	20	0	-	35	-	Double-arm smash
+228	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+229	0	0	1	0	2	0	100	0	0	20	0	44:204:1:0	0	-	Disable necromancy
+230	0	0	1	0	2	0	100	0	0	20	0	44:205:1:0	0	-	Disable necromancy
+231	0	0	1	0	2	0	100	0	0	20	0	44:206:1:0	0	-	Disable necromancy
+232	0	0	1	0	2	0	100	0	0	20	0	44:207:1:0	0	-	Disable necromancy
+233	0	0	1	0	2	0	100	0	0	20	0	44:208:1:0	0	-	Disable necromancy
+234	0	0	1	0	2	0	100	0	0	20	0	44:209:1:0	0	-	Disable necromancy
+235	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	Plague touch
+236	0	0	1	1	0	0	100	1	1	20	0	-	15	-	Punch
+237	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+238	30	0	1	7	0	0	100	3	0	20	0	-	80	-	Loving whispers
+239	0	0	1	1	0	0	100	0	0	20	0	44:216:1:0	0	-	Pinecone pig
+240	80	0	1	1	1	2	95	1	3	0	0	21:5:1:0	900	-	Chains of torment
+241	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+242	0	0	1	2	1	0	100	1	0	20	0	-	500	-	You cause headache to the enlightened one.
+243	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+244	0	0	1	1	0	0	100	1	1	20	0	-	20	-	Gauntlet punch
+245	0	0	1	1	1	0	95	1	4	20	0	21:88:0.6:0	35	-	Pyromancy trick
+246	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+247	0	0	1	1	1	0	95	1	3	0	0	21:5:1:0	60	-	Chains of torment
+248	0	0	1	1	0	0	95	1	3	20	0	21:17:0.95:0	10	-	Spider bite
+249	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The asterisk is floating idle in the air...
+250	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The newborn god is trembling in pain...
+251	0	0	1	1	0	0	100	2	6	20	0	-	80	-	Pure fear
+252	0	0	1	1	0	0	100	1	6	20	0	-	80	-	Pure hunger
+253	0	0	2	1	0	0	100	0	0	20	0	44:4:1:0	0	-	The newborn god glances at you...
+254	0	0	1	11	0	0	100	1	0	20	0	-	50	-	Self-mutilation
+255	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	45	 hacks with a buthcer knife!	Claw of a god
+256	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+257	0	0	1	1	0	0	100	0	0	20	0	-	0	-	5
+258	0	0	1	1	0	0	100	0	0	20	0	-	0	-	4
+259	0	0	1	1	0	0	100	0	0	20	0	-	0	-	3
+260	0	0	1	1	0	0	100	0	0	20	0	-	0	-	2
+261	0	0	1	1	0	0	100	0	0	20	0	-	0	-	1
+262	0	0	1	1	0	0	100	0	0	20	0	21:1:1:0	0	-	Death
+263	0	0	1	2	0	0	100	1	4	20	0	-	35	-	Burning gaze
+264	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Gro-goroth is breathing heavily...
+265	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+266	0	0	1	1	0	0	95	1	3	20	0	21:90:1:0	25	-	Toxic dart
+267	0	0	1	1	0	0	95	1	3	20	0	21:95:1:0	25	-	Paralysis dart
+268	0	0	0	1	0	0	100	1	2	18	0	21:5:1:0;21:22:0.7:0;21:56:0.5:0	35	-	Critical slash
+269	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+270	0	0	0	1	1	1	90	1	1	15	1	21:0:1:0	22	 attacks!	Mad rush
+271	0	0	1	1	0	0	95	1	2	20	0	21:5:0.95:0	40	-	Cross-slash
+272	0	0	1	1	0	0	100	1	1	20	0	21:16:0.8:0	50	-	The guardian hurls a boulder at you!
+273	0	0	1	1	0	0	100	1	4	20	0	21:88:0.8:0	35	-	Francois spits a molten from his mouth!
+274	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The golden god smirks at you.
+275	0	0	1	1	0	0	100	1	4	20	0	21:88:0.95:0	35	-	The god squirts molten from its eye!
+276	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+277	0	0	1	1	0	0	100	1	0	20	0	21:98:1:0	20	-	Ruin
+278	0	0	0	1	0	0	100	1	1	20	0	-	30	-	Blundering tackle
+279	0	0	1	0	0	0	100	0	0	20	0	-	0	-	The molded squirms in pain...
+280	0	0	1	0	0	0	95	0	0	20	0	44:235:1:0	15	-	Ejaculation
+281	0	0	0	2	1	1	30	1	-1	20	1	21:0:1:0	a.atk * 4 - b.def * 2	 attacks!	Attack
+282	0	0	1	1	0	0	97	1	0	20	0	21:99:1:0	20	-	Pollen
+283	0	0	1	11	1	0	100	0	0	20	0	21:100:1:0	0	-	War cry
+284	0	0	1	1	0	0	95	1	0	20	0	-	45	-	Inner juices
+285	0	0	0	1	1	1	90	1	2	20	0	-	60	 hacks with a buthcer knife!	Wing scythe
+286	0	0	0	1	1	1	100	0	2	20	0	21:31:1:0;44:240:1:0	30	-	Peck
+287	0	0	0	1	1	1	90	1	3	20	0	21:5:0.9:0	25	 hacks with a buthcer knife!	Poke
+288	0	0	0	1	0	1	100	1	3	20	0	21:5:0.9:0;21:56:0.3:0;21:55:0.3:0	35	-	Bite
+289	0	0	0	1	1	1	90	1	3	20	0	21:3:0.7:0;21:14:0.4:0;44:240:1:0	120	 hacks with a buthcer knife!	Chomp
+290	0	0	1	1	3	0	100	0	0	20	0	-	0	-	Rebirth of the beloved
+291	0	0	1	0	3	0	100	0	0	20	0	-	0	-	Escape plan
+292	0	0	0	1	1	1	90	1	1	20	0	21:19:1:0	35	 hacks with a buthcer knife!	Stomp
+293	0	0	0	2	1	1	30	1	-1	20	1	21:0:1:0	a.atk * 4 - b.def * 2	 attacks!	Attack
+294	10	0	1	1	3	0	100	0	0	20	0	-	0	-	Phase step
+295	5	0	1	1	3	0	100	0	0	20	0	-	0	-	Greater phase step
+296	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+297	0	0	0	1	0	0	95	1	6	20	0	21:81:1:0	20	-	Green flame
+298	0	0	1	1	0	0	95	2	0	20	0	-	50	-	Empty echo
+299	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	40	 hacks with a buthcer knife!	Hack
+300	0	0	0	1	1	1	90	1	1	20	0	21:19:0.95:0;21:55:0.8:0	40	 hacks with a buthcer knife!	Morning star
+301	0	0	0	1	1	1	90	1	1	20	0	21:19:0.95:0;21:56:0.8:0	40	 hacks with a buthcer knife!	Morning star
+302	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The right arm is shaking in excitement!
+303	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The jaggedjaw is barking.
+304	0	0	2	1	0	0	100	0	0	20	0	44:56:1:0	0	-	The monster lowers it's stance...
+305	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+306	0	0	0	1	0	1	100	1	3	20	0	21:5:0.9:0;21:56:0.3:0;21:55:0.3:0	30	-	Bite
+307	0	0	1	1	0	0	100	1	3	20	0	-	40	-	Devour
+308	0	0	1	1	0	0	100	1	0	20	0	-	40	-	Tentacle slam
+309	0	0	1	1	1	0	100	0	0	20	0	21:105:1:0;44:240:1:0	0	-	Entangle
+310	0	0	0	1	0	0	100	1	2	18	0	21:5:1:0;21:22:0.7:0;21:56:0.5:0	35	-	Critical stabs
+311	0	0	0	1	0	0	100	1	2	18	0	21:5:1:0;21:56:0.5:0	25	-	Regular stab
+312	0	0	1	1	0	0	100	0	0	20	0	-	0	-	Cry for help
+313	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The priest is forming magical hand signs...
+314	0	0	4	3	1	1	91	0	-1	20	1	44:4:1:0	35	 attacks!	The appendage aims carefully...
+315	0	0	1	1	0	0	100	1	0	20	0	-	20	-	Tentacle whip
+316	0	0	1	1	0	0	100	0	0	20	0	-	0	-	The tentacle is swinging around in an erratic manner...
+317	0	0	1	11	1	0	100	0	0	20	0	-	0	-	The tumor is wriggling in pain.
+318	0	0	1	11	1	0	100	0	0	20	0	-	0	-	The tumor is shaking aggressively!
+319	0	0	1	11	1	0	100	0	0	20	0	-	10	-	Colour from the unknown
+320	0	0	1	2	1	0	100	2	0	20	0	-	25	-	The party's psyche is crumbling!
+321	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+322	0	0	1	11	0	0	100	0	0	20	0	-	0	-	Compulsory disfigurement
+323	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+324	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	40	 hacks with a buthcer knife!	Hatchet
+325	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	35	 hacks with a buthcer knife!	Axe
+326	0	0	0	1	1	1	100	1	1	20	1	21:0:1:0	20	 attacks!	Punch
+327	0	0	1	11	0	0	100	0	0	20	0	-	0	-	The creature is forming hand signs...
+328	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+329	0	0	0	1	1	1	90	1	2	20	0	21:3:1:0;44:240:1:0	60	 hacks with a buthcer knife!	Miasma
+330	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+331	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+332	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+333	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+334	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+335	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+336	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+337	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+338	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+339	0	0	1	1	0	0	100	0	0	20	0	-	0	-	
+340	0	0	1	1	0	0	100	0	0	20	0	-	0	-	

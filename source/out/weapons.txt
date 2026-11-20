@@ -1,0 +1,51 @@
+
+Short sword
+Meat cleaver
+Iron mace
+Crude sword
+Claymore
+Dagger
+Long sword
+Eastern sword
+
+Iron spear
+Short bow
+
+Cursed short sword
+Cursed meat cleaver
+Cursed iron mace
+Sergal spear
+Cursed claymore
+Cursed dagger
+Cursed long sword
+Miasma
+
+Cursed iron spear
+Cursed short bow
+Skeletal arm
+
+Cursed meat cleaver
+weapon1
+weapon2_girl
+
+Saw cleaver
+
+Shark teeth
+Cursed shark teeth
+Bone shears
+Cursed bone shears
+War scythe
+Cursed war scythe
+Morning star
+Cursed morning star
+Ritual spear
+Cursed ritual spear
+Purified eastern sword
+
+Scimitar
+Axe
+Cursed scimitar
+Cursed axe
+
+Blue Sin
+Cursed Blue Sin

@@ -1,0 +1,600 @@
+1	1300	0	10	10	12	10	10	11	0	0	guard1_torso	6:6:17:0:5	-	Guard [torso]
+2	20	0	10	10	10	10	10	10	0	0	guard1_head	-	-	Guard [head]
+3	20	0	10	10	10	10	10	10	0	0	guard1_R_hand	-	-	Guard [right arm]
+4	20	0	10	10	10	10	10	10	0	0	guard1_L_hand	3:0:0:0:5	-	Guard [left arm]
+5	20	0	10	10	10	10	10	10	0	0	guard1_R_leg	-	-	Guard [right leg]
+6	20	0	10	10	10	10	10	10	0	0	guard1_L_leg	-	-	Guard [left leg]
+7	20	0	10	10	10	10	10	10	0	0	guard1_stinger	4:1:1:1:3;5:0:0:0:5;5:0:0:0:5	-	Guard [stinger]
+8	700	0	10	10	10	10	10	10	0	0	ghoul_torso	16:6:69:0:5	-	Prisoner [torso]
+9	20	0	10	10	10	10	10	10	0	0	ghoul_head	116:0:0:0:5;117:0:0:0:5;118:0:0:0:5	-	Prisoner [head]
+10	20	0	10	10	10	10	10	10	0	0	ghoul_R_hand	13:0:0:0:5	-	Prisoner [right arm]
+11	20	0	10	10	10	10	10	10	0	0	ghoul_L_hand	13:0:0:0:5	-	Prisoner [left arm]
+12	20	0	10	10	10	10	10	10	0	0	ghoul_R_leg	-	-	Prisoner [right leg]
+13	20	0	10	10	10	10	10	10	0	0	ghoul_L_leg	-	-	Prisoner [left leg]
+14	700	0	10	10	10	10	10	10	0	0	butterfly1_torso	14:0:0:0:5	-	Butterfly [torso]
+15	20	0	10	10	10	10	10	10	0	0	butterfly1_head	-	-	Butterfly [head]
+16	20	0	10	10	10	10	10	10	0	0	butterfly1_arm	-	-	Butterfly [right arm]
+17	20	0	10	10	10	10	10	10	0	0	butterfly1_Rleg	-	-	Butterfly [right leg]
+18	20	0	10	10	10	10	10	10	0	0	butterfly1_Lleg	-	-	Butterfly [left leg]
+19	700	0	10	10	10	10	10	10	0	0	priest_torso2	-	-	Priest [torso]
+20	20	0	10	10	10	10	10	10	0	0	priest_head	-	-	Priest [head]
+21	20	0	10	10	10	10	10	10	0	0	priest_R_arm	15:0:0:0:5;15:0:0:0:5;202:0:0:0:5	-	Priest [right arm]
+22	20	0	10	10	10	10	10	10	0	0	priest_L_arm	-	-	Priest [left arm]
+23	1000	0	10	10	10	10	10	10	0	0	hydra_body	-	-	Hydra [body]
+24	20	0	10	10	10	10	10	10	0	0	hydra_head7	-	-	Hydra [head 1]
+25	20	0	10	10	10	10	10	10	0	0	hydra_head6	-	-	Hydra [head 2]
+26	20	0	10	10	10	10	10	10	0	0	hydra_head5	-	-	Hydra [head 3]
+27	20	0	10	10	10	10	10	10	0	0	hydra_head1	-	-	Hydra [head 4]
+28	20	0	10	10	10	10	10	10	0	0	hydra_head2	-	-	Hydra [head 5]
+29	20	0	10	10	10	10	10	10	0	0	hydra_head3	-	-	Hydra [head 6]
+30	20	0	10	10	10	10	10	10	0	0	hydra_head4	-	-	Hydra [head 7]
+31	20	0	10	10	10	10	10	10	0	0	hydra_head8	-	-	Hydra [head 8]
+32	9000	0	10	10	10	10	10	10	0	0	wizardhead	22:0:0:0:5	-	Beheaded wizard
+33	10000	0	10	10	10	10	10	10	0	0	darkness	-	-	Darkness
+34	10000	0	10	10	10	10	10	10	0	0	ancientdemon1	-	-	Darkness
+35	10000	0	10	10	10	10	10	10	0	0	ancientdemon2	-	-	Darkness
+36	10000	0	10	10	10	10	10	10	0	0	ancientdemon3	-	-	Darkness
+37	10000	0	10	10	10	10	10	10	0	0	ancientdemon4	-	-	Darkness
+38	700	0	10	10	10	10	10	10	0	0	groundghoul_torso	-	-	Prisoner [torso]
+39	20	0	10	10	10	10	10	10	0	0	groundghoul_head	-	-	Prisoner [head]
+40	20	0	10	10	10	10	10	10	0	0	groundghoul_Rarm	13:0:0:0:5	-	Prisoner [right arm]
+41	20	0	10	10	10	10	10	10	0	0	groundghoul_Larm	-	-	Prisoner [left arm]
+42	100	0	10	10	10	10	10	10	0	0	cavegnome1	26:0:0:0:5	-	Cavegnome [upper]
+43	100	0	10	10	10	10	10	10	0	0	cavegnome2	-	-	Cavegnome [lower]
+44	1700	0	30	10	10	10	10	10	0	0	lizard_torso	-	-	Lizardman [torso]
+45	20	0	30	10	10	10	10	10	0	0	lizard_head	33:0:0:0:5;37:0:0:0:5;37:0:0:0:5	-	Lizardman [head]
+46	200	0	30	10	10	10	10	10	0	0	lizard_Rarm	25:0:0:0:5	-	Lizardman [right arm]
+47	20	0	30	10	10	10	10	10	0	0	lizard_Larm	35:0:0:0:5;36:0:0:0:5;38:0:0:0:5	-	Lizardman [left arm]
+48	20	0	30	10	10	10	10	10	0	0	lizard_Rleg	-	-	Lizardman [right leg]
+49	20	0	30	10	10	10	10	10	0	0	lizard_Lleg	-	-	Lizardman [left leg]
+50	20	0	30	10	10	10	10	10	0	0	lizard_tail	24:6:17:0:5	-	Lizardman [tail]
+51	700	0	10	10	10	10	10	10	0	0	trorrfull_torso	-	-	Trortur [torso]
+52	20	0	10	10	10	10	10	10	0	0	trorrfull_head	-	-	Trortur [head]
+53	20	0	10	10	10	10	10	10	0	0	trorrfull_armR	-	-	Trortur [right arm]
+54	20	0	10	10	10	10	10	10	0	0	trorrfull_armL	13:0:0:0:5	-	Trortur [left arm]
+55	20	0	10	10	10	10	10	10	0	0	trorrfull_legR	-	-	Trortur [right leg]
+56	20	0	10	10	10	10	10	10	0	0	trorrfull_legL	-	-	Trortur [left leg]
+57	100	0	10	10	10	10	10	10	0	0	cavegnome	26:0:0:0:5	-	Cavegnome
+58	1500	0	10	10	10	10	2	10	0	0	cavemother_torso	27:0:0:0:5;28:0:0:0:5;29:0:0:0:5;30:0:0:0:5	-	Cavemother [torso]
+59	270	0	10	10	10	10	10	10	0	0	cavemother_wingR	-	-	Cavemother [right wing]
+60	270	0	10	10	10	10	10	10	0	0	cavemother_wingL	-	-	Cavemother [left wing]
+61	20	0	10	10	10	10	10	10	0	0	cavemother_legR	-	-	Cavemother [right leg]
+62	20	0	10	10	10	10	10	10	0	0	cavemother_legL	-	-	Cavemother [left leg]
+63	200	0	10	10	10	10	10	10	0	0	cavemother_breasts	-	-	Cavemother [breasts]
+64	100	0	10	10	10	10	10	10	0	0	cavegnome	26:0:0:0:5	-	Cavegnome
+65	1300	0	10	10	10	10	10	10	0	0	cavemother2_torso	-	-	Cavemother [torso]
+66	20	0	10	10	10	10	10	10	0	0	cavemother2_head	28:0:0:0:5;27:0:0:0:5;29:0:0:0:5;30:0:0:0:5	-	Cavemother [head]
+67	20	0	10	10	10	10	10	10	0	0	cavemother2_legL	-	-	Cavemother [left leg]
+68	20	0	10	10	10	10	10	10	0	0	cavemother2_legR	-	-	Cavemother [right leg]
+69	500	0	10	10	10	10	10	10	0	0	tallknight	-	-	Ancient knight
+70	10000	0	700	10	10	10	10	10	0	0	tallknight2	45:0:0:0:5;46:0:0:0:5;47:0:0:0:5	-	Knight spectre
+71	20	0	10	10	10	10	10	10	0	0	tallknight_head	-	-	Old knight [helmet]
+72	20	0	10	10	10	10	10	10	0	0	tallknight_armor	-	-	Old knight [armor]
+73	20	0	10	10	10	10	10	10	0	0	tallknight_apron	-	-	Old knight [loincloth]
+74	20	0	10	10	10	10	10	10	0	0	tallknight_armL	-	-	Old knight [left arm]
+75	20	0	10	10	10	10	10	10	0	0	tallknight_armR	47:0:0:0:5;45:0:0:0:5;46:0:0:0:5	-	Old knight [right arm]
+76	20	0	10	10	10	10	10	10	0	0	tallknight_legL	-	-	Old knight [left leg]
+77	20	0	10	10	10	10	10	10	0	0	tallknight_legR	-	-	Old knight [right leg]
+78	1400	0	10	10	10	10	10	10	0	0	moonless_torso	-	-	Moonless [torso]
+79	20	0	10	10	10	10	10	10	0	0	moonless_head	288:0:0:0:5;89:0:0:0:5	-	Moonless [head]
+80	20	0	10	10	10	10	10	10	0	0	moonless_armL	-	-	Moonless [paw 1]
+81	20	0	10	10	10	10	10	10	0	0	moonless_armR	-	-	Moonless [paw 2]
+82	20	0	10	10	10	10	10	10	0	0	moonless_legL	-	-	Moonless [paw 3]
+83	20	0	10	10	10	10	10	10	0	0	moonless_legR	-	-	Moonless [paw 4]
+84	700	0	10	10	10	10	10	10	0	0	yellow_mage_torso	-	-	Yellow mage [torso]
+85	20	0	10	10	10	10	10	10	0	0	yellow_mage_head	-	-	Yellow mage [head]
+86	20	0	10	10	10	10	10	10	0	0	yellow_mage_Larm	49:0:0:0:5;125:0:0:0:5	-	Yellow mage [left arm]
+87	20	0	10	10	10	10	10	10	0	0	yellow_mage_Rarm	-	-	Yellow mage [right arm]
+88	20	0	10	10	10	10	10	10	0	0	yellow_mage_legL	-	-	Yellow mage [left leg]
+89	20	0	10	10	10	10	10	10	0	0	yellow_mage_legR	-	-	Yellow mage [right leg]
+90	700	0	10	10	10	10	10	10	0	0	night_lurch_torso	-	-	Night lurch [torso]
+91	20	0	10	10	10	10	10	10	0	0	night_lurch_head	116:0:0:0:5;117:0:0:0:5	-	Night lurch [head]
+92	20	0	10	10	10	10	10	10	0	0	night_lurch_Larm	41:0:0:0:5	-	Night lurch [left arm]
+93	20	0	10	10	10	10	10	10	0	0	night_lurch_Rarm	41:0:0:0:5	-	Night lurch [right arm]
+94	20	0	10	10	10	10	10	10	0	0	night_lurch_Lleg	-	-	Night lurch [left leg]
+95	20	0	10	10	10	10	10	10	0	0	night_lurch_Rleg	-	-	Night lurch [right leg]
+96	20	0	10	10	10	10	10	10	0	0	night_lurch_horn	-	-	Night lurch [horn]
+97	1200	0	10	10	10	10	10	10	0	0	mumbler_torso	-	-	Mumbler [torso]
+98	20	0	10	10	10	10	10	10	0	0	mumbler_head	84:0:0:0:5;84:0:0:0:5;83:0:0:0:5	-	Mumbler [head]
+99	250	0	10	10	10	10	10	10	0	0	mumbler_armL	52:0:0:0:5	-	Mumbler [left arm]
+100	250	0	10	10	10	10	10	10	0	0	mumbler_armR	52:0:0:0:5	-	Mumbler [right arm]
+101	20	0	10	10	10	10	10	10	0	0	mumbler_legL	-	-	Mumbler [left leg]
+102	20	0	10	10	10	10	10	10	0	0	mumbler_legR	-	-	Mumbler [right leg]
+103	700	0	10	10	10	10	10	10	0	0	dweller1_torso	-	-	Cavedweller [torso]
+104	20	0	10	10	10	10	10	10	0	0	dweller1_head_1	-	-	Cavedweller [head]
+105	20	0	10	10	10	10	10	10	0	0	dweller1_armL	57:0:0:0:5	-	Cavedweller [left arm]
+106	20	0	10	10	10	10	10	10	0	0	dweller1_armR	-	-	Cavedweller [right arm]
+107	20	0	10	10	10	10	10	10	0	0	dweller1_legL	-	-	Cavedweller [left leg]
+108	20	0	10	10	10	10	10	10	0	0	dweller1_legR	-	-	Cavedweller [right leg]
+109	20	0	10	10	10	10	10	10	0	0	dweller1_penis	-	-	Cavedweller [penis]
+110	700	0	10	10	10	10	10	10	0	0	dweller2_torso	-	-	Cavedweller [torso]
+111	20	0	10	10	10	10	10	10	0	0	dweller2_breasts	-	-	Cavedweller [breasts]
+112	1300	0	10	10	10	10	10	10	0	0	ballista_torso	6:6:17:0:5	-	Guard [torso]
+113	20	0	10	10	10	10	10	10	0	0	ballista_head	-	-	Guard [head]
+114	300	0	10	10	10	10	10	10	0	0	ballista_ballista	-	-	Guard [ballista]
+115	20	0	10	10	10	10	10	10	0	0	ballista_legR	-	-	Guard [right leg]
+116	20	0	10	10	10	10	10	10	0	0	ballista_legL	-	-	Guard [left leg]
+117	20	0	10	10	10	10	10	10	0	0	ballista_stinger	4:1:1:1:3;5:0:0:0:5	-	Guard [stinger]
+118	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+119	5000	0	10	10	10	10	2	10	0	0	salmon_snake_torso	-	-	Salmonsnake [torso]
+120	1200	0	10	10	10	10	10	10	0	0	salmon_snake_head	63:6:17:0:5	-	Salmonsnake [head]
+121	800	0	10	10	10	10	10	10	0	0	salmon_snake_armL	60:0:0:0:5;61:0:0:0:5;64:4:27:0:5;82:4:27:0:5	-	Salmonsnake [left arm]
+122	800	0	10	10	10	10	10	10	0	0	salmon_snake_armR	60:0:0:0:5;61:0:0:0:5;64:4:27:0:5;82:4:27:0:5	-	Salmonsnake [right arm]
+123	500	0	10	10	10	10	10	10	0	0	salmon_snake_tongue1	-	-	Salmonsnake [tongue]
+124	500	0	10	10	10	10	10	10	0	0	salmon_snake_tongue2	-	-	Salmonsnake [tongue]
+125	500	0	10	10	10	10	10	10	0	0	salmon_snake_tongue3	62:0:0:0:5	-	Salmonsnake [tongue]
+126	150	0	10	10	10	10	10	10	0	0	salmon_snake_eye	-	-	Salmonsnake [eye]
+127	5000	0	10	10	10	10	10	10	0	0	mauler_torso	-	-	Crow Mauler [torso]
+128	500	0	10	10	10	10	10	10	0	0	mauler_head	-	-	Crow Mauler [head]
+129	700	0	10	10	10	10	10	10	0	0	mauler_armR	-	-	Crow Mauler [right arm]
+130	700	0	10	10	10	10	10	10	0	0	mauler_armL	93:0:0:0:5	-	Crow Mauler [left arm]
+131	200	0	10	10	10	10	10	10	0	0	mauler_legR	-	-	Crow Mauler [right leg]
+132	200	0	10	10	10	10	10	10	0	0	mauler_legL	-	-	Crow Mauler [left leg]
+133	20	0	10	10	10	10	10	10	0	0	dweller1_head2_2	-	-	Cavedweller [head]
+134	100	0	10	10	10	10	10	10	0	0	tormented_one	1:0:0:0:5	-	Tormented one
+135	1400	0	10	10	6	10	10	10	0	0	harvestman_torso	6:6:17:0:5	-	Harvestman [torso]
+136	20	0	10	10	10	10	10	10	0	0	harvestman_head	96:0:0:0:5;97:0:0:0:5;98:0:0:0:5	-	Harvestman [head]
+137	20	0	10	10	10	10	10	10	0	0	harvestman_armL	95:0:0:0:5	-	Harvestman [left arm]
+138	20	0	10	10	10	10	10	10	0	0	harvestman_armR	95:0:0:0:5	-	Harvestman [right arm]
+139	20	0	10	10	10	10	10	10	0	0	harvestman_legL	-	-	Harvestman [left leg]
+140	20	0	10	10	10	10	10	10	0	0	harvestman_legR1	-	-	Harvestman [middle leg]
+141	20	0	10	10	10	10	10	10	0	0	harvestman_legR2	-	-	Harvestman [right leg]
+142	20	0	10	10	10	10	10	10	0	0	harvestman_sackofskin	-	-	Harvestman [sack of skin]
+143	1000	0	10	10	10	10	10	10	0	0	assassinghost	100:0:0:0:5	-	Assassin spectre
+144	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+145	2300	0	10	10	10	10	10	10	0	0	iron_shakespere_torso	-	-	Iron Shakespeare [torso]
+146	500	0	10	10	10	10	10	10	0	0	iron_shakespere_head	-	-	Iron Shakespeare [head]
+147	1300	0	10	10	10	10	10	10	0	0	iron_shakespere_arm_R	110:0:0:0:5	-	Iron Shakespeare [right arm]
+148	1300	0	10	10	10	10	10	10	0	0	iron_shakespere_arm_R2	119:0:0:0:5	-	Iron Shakespeare [right arm]
+149	1300	0	10	10	10	10	10	10	0	0	iron_shakespere_arm_L	110:0:0:0:5	-	Iron Shakespeare [left arm]
+150	1300	0	10	10	10	10	10	10	0	0	iron_shakespere_arm_L2	119:0:0:0:5	-	Iron Shakespeare [left arm]
+151	150	0	10	10	10	10	10	10	0	0	iron_shakespere_leg_L	-	-	Iron Shakespeare [left leg]
+152	150	0	10	10	10	10	10	10	0	0	iron_shakespere_leg_R	-	-	Iron Shakespeare [right leg]
+153	700	0	10	10	10	10	10	10	0	0	skeleton_torso	16:6:69:0:5	-	Skeleton [torso]
+154	20	0	10	10	10	10	10	10	0	0	skeleton_head	-	-	Skeleton [head]
+155	20	0	10	10	10	10	10	10	0	0	skeleton_armR	13:0:0:0:5	-	Skeleton [right arm]
+156	20	0	10	10	10	10	10	10	0	0	skeleton_legR	111:0:0:0:5	-	Skeleton [right leg]
+157	1000	0	10	10	10	10	10	10	0	0	maneba_body	159:0:0:0:5;160:0:0:0:5	-	Maneba [head]
+158	20	0	10	10	10	10	10	10	0	0	maneba_tentacle1	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 1]
+159	20	0	10	10	10	10	10	10	0	0	maneba_tentacle2	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 2]
+160	20	0	10	10	10	10	10	10	0	0	maneba_tentacle3	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 3]
+161	20	0	10	10	10	10	10	10	0	0	maneba_tentacle4	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 4]
+162	20	0	10	10	10	10	10	10	0	0	maneba_tentacle5	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 5]
+163	20	0	10	10	10	10	10	10	0	0	maneba_tentacle6	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 6]
+164	20	0	10	10	10	10	10	10	0	0	maneba_tentacle7	113:0:0:0:5;114:0:0:0:5	-	Maneba [tentacle 7]
+165	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+166	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+167	100	0	10	10	10	10	10	10	0	0	tormented_one_secondform	1:0:0:0:5	-	jj
+168	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+169	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+170	1700	0	10	10	10	10	7	10	0	0	enki_torso	-	-	Enki [torso]
+171	20	0	10	10	10	10	10	10	0	0	enki_head	-	-	Enki [head]
+172	20	0	10	10	10	10	10	10	0	0	enki_armR	44:0:0:0:5;123:0:0:0:5	-	Enki [right arm]
+173	20	0	10	10	10	10	10	10	0	0	enki_armL	49:0:0:0:5;313:0:0:0:5	-	Enki [left arm]
+174	1700	0	10	10	10	10	10	10	0	0	cahara_torso	-	-	Cahara [torso]
+175	20	0	10	10	10	10	10	10	0	0	cahara_head	-	-	Cahara [head]
+176	20	0	10	10	10	10	10	10	0	0	cahara_Larm	126:0:0:0:5	-	Cahara [left arm]
+177	20	0	10	10	10	10	10	10	0	0	cahara_Rarm	209:0:0:0:5;210:0:0:0:5	-	Cahara [right arm]
+178	20	0	10	10	10	10	10	10	0	0	cahara_Lleg	-	-	Cahara [left leg]
+179	20	0	10	10	10	10	10	10	0	0	cahara_Rleg	-	-	Cahara [right leg]
+180	20	0	10	10	10	10	10	10	0	0	enki_armR	49:0:0:0:5;123:0:0:0:5	-	Enki [right arm]
+181	20	0	10	10	10	10	10	10	0	0	enki_armL	128:0:0:0:5;127:0:0:0:5;123:0:0:0:5	-	Enki [left arm]
+182	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+183	5000	0	10	10	10	10	10	10	0	0	red_man_torso	-	-	Red man [torso]
+184	1200	0	10	10	10	10	10	10	0	0	red_man_head	135:0:0:0:5;139:0:0:0:5	-	Red man [head]
+185	500	0	10	10	10	10	10	10	0	0	red_man_left_arm	138:0:0:0:5	-	Red man [left arm]
+186	500	0	10	10	10	10	10	10	0	0	red_man_right_arm	138:0:0:0:5;140:0:0:0:5	-	Red man [right arm]
+187	5000	0	10	10	10	10	10	10	0	0	tormented_one2	247:6:17:0:5	-	Tormented one [torso]
+188	5000	0	10	10	10	10	10	10	0	0	tormented_one	247:6:17:0:5	-	Tormented one [torso]
+189	2000	0	10	10	10	10	10	10	0	0	tormented_one_head	-	-	Tormented one [head]
+190	500	0	10	10	10	10	10	10	0	0	tormented_one_L_arm	142:0:0:0:5;143:0:0:0:5	-	Tormented one [left arm]
+191	500	0	10	10	10	10	10	10	0	0	tormented_one_R_arm	143:0:0:0:5	-	Tormented one [right arm]
+192	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+193	3000	0	10	10	10	10	10	10	0	0	tormented_one_secondform_1_ring	132:0:0:0:5;247:0:0:0:5	-	Tormented one [1st circle]
+194	10000	0	10	10	10	10	10	10	0	0	tormented_one_secondform_2_ring	131:0:0:0:5;129:0:0:0:5	-	Tormented one [2nd circle]
+195	10000	0	10	10	10	10	10	10	0	0	tormented_one_secondform_3_ring	129:0:0:0:5;130:0:0:0:5	-	Tormented one [3rd circle]
+196	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+197	1000	0	10	10	10	10	10	10	0	0	tormented_one_L_arm	142:0:0:0:5;143:0:0:0:5	-	Tormented one [left arm]
+198	1000	0	10	10	10	10	10	10	0	0	tormented_one_R_arm	143:0:0:0:5	-	Tormented one [right arm]
+199	500	0	10	10	10	10	10	10	0	0	tormented_one_head	-	-	Tormented one [head]
+200	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+201	300	0	10	10	10	10	10	10	0	0	wooden_door	-	-	Wooden door
+202	100	0	10	10	10	10	10	10	0	0	scarab2	1:0:0:0:5	-	Scarab
+203	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+204	700	0	10	10	10	10	10	10	0	0	dweller3_torso	-	-	Cavedweller [torso]
+205	20	0	10	10	10	10	10	10	0	0	dweller3_head_1	-	-	Cavedweller [head]
+206	20	0	10	10	10	10	10	10	0	0	dweller3_spear	147:0:0:0:5	-	Cavedweller [ritual spear]
+207	2800	0	10	10	12	10	10	11	0	0	bodysnatcher_torso	6:6:17:0:5	-	Lord of flies [torso]
+208	20	0	10	10	10	10	10	10	0	0	bodysnatcher_head	155:0:0:0:5;156:0:0:0:5;156:0:0:0:5;156:0:0:0:5	-	Lord of flies [head]
+209	400	0	10	10	10	10	10	10	0	0	bodysnatcher_arm_R	154:0:0:0:5	-	Lord of flies [right arm]
+210	400	0	10	10	10	10	10	10	0	0	bodysnatcher_arm_L	154:0:0:0:5	-	Lord of flies [left arm]
+211	20	0	10	10	10	10	10	10	0	0	bodysnatcher_leg_R	-	-	Lord of flies [right leg]
+212	20	0	10	10	10	10	10	10	0	0	bodysnatcher_leg_L	-	-	Lord of flies [left leg]
+213	1000	0	10	10	10	10	10	10	0	0	scarab2	163:0:0:0:5	-	Scarab
+214	1000	0	10	10	10	10	10	10	0	0	scarab1	163:0:0:0:5	-	Scarab
+215	1000	0	10	10	10	10	10	10	0	0	scarab3	163:0:0:0:5	-	Scarab
+216	3000	0	10	10	10	10	10	10	0	0	wooden_door	-	-	Wooden door
+217	3000	0	10	10	10	10	10	10	0	0	bodysnatcher4	-	-	Lord of flies
+218	800	0	10	10	10	10	10	10	0	0	iron_door	-	-	Metal door
+219	800	0	10	10	10	10	10	10	0	0	iron_bars	-	-	Iron bars
+220	1300	0	10	10	12	10	10	11	0	0	black_witch_torso	-	-	Black witch [torso]
+221	20	0	10	10	10	10	10	10	0	0	black_witch_head	-	-	Black witch [head]
+222	20	0	10	10	10	10	10	10	0	0	black_witch_armR	166:0:0:0:5	-	Black witch [right arm]
+223	20	0	10	10	10	10	10	10	0	0	black_witch_armL	175:0:0:0:5	-	Black witch [left arm]
+224	800	0	10	10	10	10	10	10	0	0	iron_bars2	-	-	Iron bars
+225	6000	0	10	10	10	10	10	10	0	0	nameless_torso	6:6:17:0:5	-	Nameless [torso]
+226	1800	0	10	10	10	10	10	10	0	0	nameless_head	-	-	Nameless [head]
+227	1400	0	10	10	10	10	10	10	0	0	nameless_left_arm	176:0:0:0:5	-	Nameless [left arm]
+228	1400	0	10	10	10	10	10	10	0	0	nameless_right_arm	176:0:0:0:5	-	Nameless [right arm]
+229	5000	0	10	10	10	10	10	10	0	0	white_angel_torso	6:6:17:0:5	-	White angel [torso]
+230	500	0	10	10	10	10	10	10	0	0	white_angel_head	-	-	White angel [head]
+231	700	0	10	10	10	10	10	10	0	0	white_angel_armR	173:0:0:0:5;174:0:0:0:5;174:0:0:0:5	-	White angel [right arm]
+232	700	0	10	10	10	10	10	10	0	0	white_angel_armL	173:0:0:0:5;174:0:0:0:5;174:0:0:0:5	-	White angel [left arm]
+233	200	0	10	10	10	10	10	10	0	0	white_angel_legR	-	-	White angel [right leg]
+234	200	0	10	10	10	10	10	10	0	0	white_angel_legL	-	-	White angel [left leg]
+235	200	0	10	10	10	10	10	10	0	0	white_angel_heart	171:0:0:0:5	-	White angel [heart]
+236	4000	0	10	10	10	10	10	10	0	0	nameless_torso2	-	-	Nameless [torso]
+237	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+238	5000	0	10	10	10	10	10	10	0	0	nameless2_torso1	6:6:17:0:5	-	Old guardian [torso]
+239	3500	0	10	10	10	10	10	10	0	0	nameless2_torso2	-	-	Old guardian [torso]
+240	2400	0	10	10	10	10	10	10	0	0	nameless2_head	-	-	Old guardian [head]
+241	1400	0	10	10	10	10	10	10	0	0	nameless2_armL	176:0:0:0:5;272:0:0:0:5	-	Old guardian [left arm]
+242	1400	0	10	10	10	10	10	10	0	0	nameless2_armR	176:0:0:0:5;272:0:0:0:5	-	Old guardian [right arm]
+243	1400	0	10	10	10	10	10	10	0	0	nameless2_legL	-	-	Old guardian [left leg]
+244	1400	0	10	10	10	10	10	10	0	0	nameless2_legR	-	-	Old guardian [right leg]
+245	3500	0	10	10	10	10	10	10	0	0	nameless_torso2	-	-	Nameless [torso]
+246	4000	0	10	10	12	10	10	11	0	0	uterus_torso1	-	-	Uterus [torso]
+247	20	0	10	10	10	10	10	10	0	0	uterus_head	-	-	Uterus [head]
+248	20	0	10	10	10	10	10	10	0	0	uterus_armR	178:0:0:0:5;180:0:0:0:5	-	Uterus [right arm]
+249	20	0	10	10	10	10	10	10	0	0	uterus_armL	178:0:0:0:5;180:0:0:0:5	-	Uterus [left arm]
+250	350	0	10	10	10	10	10	10	0	0	uterus_legR	-	-	Uterus [right leg]
+251	350	0	10	10	10	10	10	10	0	0	uterus_legL	-	-	Uterus [left leg]
+252	2300	0	10	10	12	10	10	11	0	0	uterus_embryo1	-	-	Embryo
+253	2300	0	10	10	12	10	10	11	0	0	uterus_embryo2	-	-	Embryo
+254	1200	0	10	10	12	10	10	11	0	0	uterus_embryo3	-	-	Embryo
+255	900	0	10	10	12	10	10	11	0	0	uterus_embryo_standing	310:0:0:0:5;311:0:0:0:5	-	Embryo
+256	7000	0	10	10	10	10	2	10	0	0	valteil_head	-	-	Valteil [head]
+257	2500	0	10	10	10	10	10	10	0	0	valteil_right_hemisphere	184:0:0:0:5;187:0:0:0:3	-	Valteil [right-brain]
+258	2500	0	10	10	10	10	10	10	0	0	valteil_left_hemisphere	186:0:0:0:5;183:0:0:0:5	-	Valteil [left-brain]
+259	1500	0	10	10	10	10	10	10	0	0	valteil_third_eye1	-	-	Valteil [third eye]
+260	1500	0	10	10	10	10	10	10	0	0	valteil_third_eye2	-	-	Valteil [third eye]
+261	1500	0	10	10	10	10	10	10	0	0	valteil_third_eye3	-	-	Valteil [third eye]
+262	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+263	100	0	10	10	10	10	10	10	0	0	francois	190:0:0:0:5	-	f
+264	100	0	10	10	10	10	10	10	0	0	francois2	1:0:0:0:5	-	f
+265	6000	0	10	10	10	10	10	10	0	0	skin_granny2	-	-	Skin granny
+266	3800	0	10	10	10	10	10	10	0	0	skin_granny_torso	6:6:17:0:5	-	Skin granny [torso]
+267	270	0	10	10	10	10	10	10	0	0	skin_granny_arm_R	41:0:0:0:5	-	Skin granny [right arm]
+268	270	0	10	10	10	10	10	10	0	0	skin_granny_arm_L	41:0:0:0:5	-	Skin granny [left arm]
+269	270	0	10	10	10	10	10	10	0	0	skin_granny_arm_m	41:0:0:0:5	-	Skin granny [middle arm]
+270	270	0	10	10	10	10	10	10	0	0	skin_granny_leg_R	192:0:0:0:5;195:0:0:0:5;195:0:0:0:5	-	Skin granny [right leg]
+271	270	0	10	10	10	10	10	10	0	0	skin_granny_leg_L	192:0:0:0:5;195:0:0:0:5;195:0:0:0:5	-	Skin granny [left leg]
+272	270	0	10	10	10	10	10	10	0	0	skin_granny_mask_cahara	-	-	Skin granny [mercenary mask]
+273	270	0	10	10	10	10	10	10	0	0	skin_granny_mask_darce	-	-	Skin granny [knight mask]
+274	270	0	10	10	10	10	10	10	0	0	skin_granny_mask_enki	-	-	Skin granny [priest mask]
+275	270	0	10	10	10	10	10	10	0	0	skin_granny_mask_ragn	-	-	Skin granny [outlander mask]
+276	270	0	10	10	10	10	10	10	0	0	skin_granny_legarde	-	-	Skin granny [captain mask]
+277	270	0	10	10	10	10	10	10	0	0	skin_granny_mask_marraige	-	-	Skin granny [marriage mask]
+278	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+279	4000	0	10	10	12	10	10	11	0	0	francois_torso	6:6:17:0:5	-	Francois [torso]
+280	1000	0	10	10	10	10	10	10	0	0	francois_head	-	-	Francois [head]
+281	800	0	10	10	10	10	10	10	0	0	francois_armR	196:0:0:0:5	-	Francois [right arm]
+282	800	0	10	10	10	10	10	10	0	0	francois_armL	245:0:0:0:5	-	Francois [left arm]
+283	250	0	10	10	10	10	10	10	0	0	francois_legR	-	-	Francois [right leg]
+284	250	0	10	10	10	10	10	10	0	0	francois_legL	-	-	Francois [left leg]
+285	9000	0	10	10	12	10	10	11	0	0	francois_torso2	198:0:0:0:5;203:0:0:0:5;203:0:0:0:5	-	Francois [torso]
+286	4500	0	10	10	10	10	10	10	0	0	francois_head2	273:0:0:0:5	-	Francois [head]
+287	600	0	10	10	10	10	10	10	0	0	francois_armR2	245:0:0:0:5	-	Francois [right arm]
+288	600	0	10	10	10	10	10	10	0	0	francois_armL2	245:0:0:0:5	-	Francois [left arm]
+289	250	0	10	10	10	10	10	10	0	0	francois_legR2	-	-	Francois [right leg]
+290	250	0	10	10	10	10	10	10	0	0	francois_legL2	-	-	Francois [left leg]
+291	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+292	2300	0	10	10	10	10	10	10	0	0	darce_torso	6:6:17:0:5	-	D'arce [torso]
+293	20	0	10	10	10	10	10	10	0	0	darce_head	-	-	D'arce [head]
+294	300	0	10	10	10	10	10	10	0	0	darce_armL	207:0:0:0:5;206:0:0:0:5	-	D'arce [left arm]
+295	300	0	10	10	10	10	10	10	0	0	darce_armR	208:0:0:0:5	-	D'arce [right arm]
+296	20	0	10	10	10	10	10	10	0	0	darce_legL	-	-	D'arce [left leg]
+297	20	0	10	10	10	10	10	10	0	0	darce_legR	-	-	D'arce [right leg]
+298	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+299	2700	0	10	10	10	10	10	10	0	0	ragnvaldr_torso	-	-	Ragnvaldr [torso]
+300	20	0	10	10	10	10	10	10	0	0	ragnvaldr_head	-	-	Ragnvaldr [head]
+301	350	0	10	10	10	10	10	10	0	0	ragnvaldr_arms	211:0:0:0:5	-	Ragnvaldr [arms]
+302	20	0	10	10	10	10	10	10	0	0	ragnvaldr_legL	-	-	Ragnvaldr [left leg]
+303	20	0	10	10	10	10	10	10	0	0	ragnvaldr_legR	-	-	Ragnvaldr [right leg]
+304	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+305	10000	0	10	10	10	10	10	10	0	0	newgod_cahara	-	-	New god
+306	10000	0	10	10	10	10	10	10	0	0	newgod_darce	-	-	New god
+307	10000	0	10	10	10	10	10	10	0	0	newgod_enki	-	-	New god
+308	10000	0	10	10	10	10	10	10	0	0	newgod_ragn	-	-	New god
+309	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+310	8000	0	10	10	12	10	10	11	0	0	yellow_king_torso	175:0:0:0:5;215:0:0:0:5	-	New god [torso]
+311	3500	0	10	10	10	10	10	10	0	0	yellow_king_head	-	-	New god [head]
+312	2000	0	10	10	10	10	10	10	0	0	yellow_king_snake	218:0:0:0:5	-	New god [snake]
+313	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+314	2600	0	10	10	12	10	10	11	0	0	moonless_guard_torso	6:6:17:0:5;214:0:0:0:5	-	Moonless guard [torso]
+315	20	0	10	10	10	10	10	10	0	0	moonless_guard_armR	-	-	Moonless guard [right arm]
+316	20	0	10	10	10	10	10	10	0	0	moonless_guard_armL	3:0:0:0:5	-	Moonless guard [left arm]
+317	20	0	10	10	10	10	10	10	0	0	moonless_guard_legR	-	-	Moonless guard [right leg]
+318	20	0	10	10	10	10	10	10	0	0	moonless_guard_legL	-	-	Moonless guard [left leg]
+319	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+320	200	0	10	10	10	10	10	10	0	0	asterisk1	163:0:0:0:5;249:0:0:0:5	-	Asterisk
+321	200	0	10	10	10	10	10	10	0	0	asterisk2	163:0:0:0:5;249:0:0:0:5	-	Asterisk
+322	200	0	10	10	10	10	10	10	0	0	asterisk3	163:0:0:0:5;249:0:0:0:5	-	Asterisk
+323	10000	0	10	10	10	10	10	10	0	0	fear_hunger	-	-	The girl
+324	4000	0	10	10	10	10	10	10	0	0	fear_hunger1	225:0:0:0:5;226:0:0:0:5	-	God of fear and hunger
+325	4000	0	10	10	10	10	10	10	0	0	fear_hunger2	225:0:0:0:5;227:0:0:0:5	-	God of fear and hunger
+326	9000	0	10	10	10	10	10	10	0	0	fear_hunger3	222:0:0:0:5;224:0:0:0:5	-	God of fear and hunger
+327	6000	0	10	10	10	10	20	10	0	0	fear_hunger4	220:0:0:0:5;221:0:0:0:5;254:0:0:0:5	-	God of fear and hunger
+328	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+329	5000	0	10	10	10	10	10	10	0	0	mauler2_torso	-	-	Crow Mauler [torso]
+330	500	0	10	10	10	10	10	10	0	0	mauler2_headL	-	-	Crow Mauler [left head]
+331	500	0	10	10	10	10	10	10	0	0	mauler2_headR	-	-	Crow Mauler [right head]
+332	700	0	10	10	10	10	10	10	0	0	mauler2_armR	-	-	Crow Mauler [right arm]
+333	700	0	10	10	10	10	10	10	0	0	mauler2_armL	93:0:0:0:5	-	Crow Mauler [left arm]
+334	200	0	10	10	10	10	10	10	0	0	mauler2_legR	-	-	Crow Mauler [right leg]
+335	200	0	10	10	10	10	10	10	0	0	mauler2_legL	-	-	Crow Mauler [left leg]
+336	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+337	2300	0	10	10	10	10	10	10	0	0	isayah_torso	6:6:17:0:5	-	Isayah [torso]
+338	20	0	10	10	10	10	10	10	0	0	isayah_head	-	-	Isayah [head]
+339	20	0	10	10	10	10	10	10	0	0	isayah_armL	236:6:2091:0:5	-	Isayah [left arm]
+340	400	0	10	10	10	10	10	10	0	0	isayah_armR	126:0:0:0:5	-	Isayah [hidden blade]
+341	20	0	10	10	10	10	10	10	0	0	isayah_legL	-	-	Isayah [left leg]
+342	20	0	10	10	10	10	10	10	0	0	isayah_legR	-	-	Isayah [right leg]
+343	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+344	4000	0	10	10	10	10	10	10	0	0	seril_torso	6:6:17:0:5	-	Gaunt knight [torso]
+345	500	0	10	10	10	10	10	10	0	0	seril_head	-	-	Gaunt knight [head]
+346	450	0	10	10	10	10	10	10	0	0	seril_armL1	126:0:0:0:5;271:0:0:0:5	-	Gaunt knight [left arm]
+347	400	0	10	10	10	10	10	10	0	0	seril_armL2	244:0:0:0:5	-	Gaunt knight [left arm]
+348	350	0	10	10	10	10	10	10	0	0	seril_armR1	126:0:0:0:5;271:0:0:0:5	-	Gaunt knight [right arm]
+349	300	0	10	10	10	10	10	10	0	0	seril_armR2	244:0:0:0:5	-	Gaunt knight [right arm]
+350	50	0	10	10	10	10	10	10	0	0	seril_legL	-	-	Gaunt knight [left leg]
+351	50	0	10	10	10	10	10	10	0	0	seril_legR	-	-	Gaunt knight [right leg]
+352	20	0	10	10	10	10	10	10	0	0	spider	248:0:0:0:5	-	Cave spider
+353	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+354	1200	0	10	10	10	10	10	10	0	0	bloody_man_torso	16:6:69:0:5	-	Bloody man [torso]
+355	20	0	10	10	10	10	10	10	0	0	bloody_man_head	116:0:0:0:5;117:0:0:0:5;118:0:0:0:5	-	Bloody man [head]
+356	20	0	10	10	10	10	10	10	0	0	bloody_man_armR	13:0:0:0:5	-	Bloody man [right arm]
+357	20	0	10	10	10	10	10	10	0	0	bloody_man_armL	13:0:0:0:5	-	Bloody man [left arm]
+358	20	0	10	10	10	10	10	10	0	0	bloody_man_legR	-	-	Bloody man [right leg]
+359	20	0	10	10	10	10	10	10	0	0	bloody_man_legL	-	-	Bloody man [left leg]
+360	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+361	10000	0	10	10	12	10	10	11	0	0	gro_goroth_torso	6:6:17:0:5;263:0:0:0:5;264:0:0:0:5;264:0:0:0:5	-	Traces of Gro-goroth [torso]
+362	3000	0	10	10	10	10	10	10	0	0	gro_goroth_armL	255:0:0:0:5	-	Gro-goroth [left arm]
+363	3000	0	10	10	10	10	10	10	0	0	gro_goroth_armR	255:0:0:0:5	-	Gro-goroth [right arm]
+364	100	0	10	10	10	10	10	10	0	0	gro_goroth_eye1_1	-	-	Gro-goroth [eye 1]
+365	1500	0	10	10	10	10	10	10	0	0	gro_goroth_eye1_2	-	-	Gro-goroth [eye 1]
+366	100	0	10	10	10	10	10	10	0	0	gro_goroth_eye2_1	-	-	Gro-goroth [eye 2]
+367	1500	0	10	10	10	10	10	10	0	0	gro_goroth_eye2_2	-	-	Gro-goroth [eye 2]
+368	300	0	10	10	10	10	10	10	0	0	gro_goroth_eye3_1	-	-	Gro-goroth [eye 3]
+369	1500	0	10	10	10	10	10	10	0	0	gro_goroth_eye3_2	-	-	Gro-goroth [eye 3]
+370	100	0	10	10	10	10	10	10	0	0	gro_goroth_eye4_1	-	-	Gro-goroth [eye 4]
+371	1500	0	10	10	10	10	10	10	0	0	gro_goroth_eye4_2	-	-	Gro-goroth [eye 4]
+372	100	0	10	10	10	10	10	10	0	0	gro_goroth_eye5_1	-	-	Gro-goroth [eye 5]
+373	1500	0	10	10	10	10	10	10	0	0	gro_goroth_eye5_2	-	-	Gro-goroth [eye 5]
+374	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+375	2300	0	10	10	12	10	10	11	0	0	tomb_raider_torso	6:6:17:0:5	-	Body snatcher [torso]
+376	20	0	10	10	10	10	10	10	0	0	tomb_raider_head	-	-	Body snatcher [head]
+377	20	0	10	10	10	10	10	10	0	0	tomb_raider_armR	267:0:0:0:5	-	Body snatcher [right arm 1]
+378	20	0	10	10	10	10	10	10	0	0	tomb_raider_armR2	268:0:0:0:5	-	Body snatcher [right arm 2]
+379	20	0	10	10	10	10	10	10	0	0	tomb_raider_armL	-	-	Body snatcher [left arm 1]
+380	20	0	10	10	10	10	10	10	0	0	tomb_raider_armL2	266:0:0:0:5	-	Body snatcher [left arm 2]
+381	20	0	10	10	10	10	10	10	0	0	tomb_raider_legR	-	-	Body snatcher [right leg]
+382	20	0	10	10	10	10	10	10	0	0	tomb_raider_legL	-	-	Body snatcher [left leg]
+383	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+384	100	0	10	10	10	10	10	10	0	0	lady_of_moon	-	-	Lady of Moon
+385	100	0	10	10	10	10	10	10	0	0	blight2	1:0:0:0:5	-	Blight
+386	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+387	450	0	10	10	10	10	10	10	0	0	minerghost	277:0:0:0:5	-	Miner spectre
+388	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+389	3000	0	10	10	12	10	10	11	0	0	molded1_torso	278:0:0:0:5;279:0:0:0:5	-	Female molded [torso]
+390	20	0	10	10	10	10	10	10	0	0	molded1_legR	-	-	Female molded [right leg]
+391	20	0	10	10	10	10	10	10	0	0	molded1_legL	-	-	Female molded [left leg]
+392	3000	0	10	10	12	10	10	11	0	0	molded2_torso	278:0:0:0:5;279:0:0:0:5;280:0:0:0:5	-	Male molded [torso]
+393	20	0	10	10	10	10	10	10	0	0	molded2_legR	-	-	Male molded [right leg]
+394	20	0	10	10	10	10	10	10	0	0	molded2_legL	-	-	Male molded [left leg]
+395	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+396	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+397	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+398	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+399	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+400	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+401	1800	0	10	10	12	10	10	11	0	0	guard_infected_torso	6:6:17:0:5	-	Guard [torso]
+402	20	0	10	10	10	10	10	10	0	0	guard_infected_head	-	-	Guard [head]
+403	20	0	10	10	10	10	10	10	0	0	guard_flower	282:0:0:0:5	-	Brain flower
+404	3100	0	10	10	12	10	10	11	0	0	bodysnatcher_infected_torso	6:6:17:0:5	-	Lord of flies [torso]
+405	20	0	10	10	10	10	10	10	0	0	bodysnatcher_infected_head	155:0:0:0:5;156:0:0:0:5;156:0:0:0:5;156:0:0:0:5	-	Lord of flies [head]
+406	20	0	10	10	10	10	10	10	0	0	bodysnatcher_torso_flower	282:0:0:0:5	-	Brain flower
+407	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+408	3000	0	10	10	12	10	10	11	0	0	blight2_torso	-	-	Blight [torso]
+409	20	0	10	10	10	10	10	10	0	0	blight2_head	-	-	Blight [head]
+410	500	0	10	10	10	10	10	10	0	0	blight2_wingR	285:0:0:0:5	-	Blight [right wing]
+411	500	0	10	10	10	10	10	10	0	0	blight2_wingL	285:0:0:0:5	-	Blight [left wing]
+412	20	0	10	10	10	10	10	10	0	0	blight2_legR	-	-	Blight [right leg]
+413	20	0	10	10	10	10	10	10	0	0	blight2_legL	-	-	Blight [left leg]
+414	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+415	20	0	10	10	10	10	10	10	0	0	night_lurch_flower	282:0:0:0:5	-	Brain flower
+416	20	0	10	10	10	10	10	10	0	0	mumbler_flower	282:0:0:0:5	-	Brain flower
+417	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+418	8000	0	10	10	10	10	10	10	0	0	greater_blight1	-	-	Greater blight
+419	8000	0	10	10	10	10	10	10	0	0	greater_blight2	-	-	Greater blight
+420	8000	0	10	10	10	10	10	10	0	0	greater_blight3	-	-	Greater blight
+421	8000	0	10	10	10	10	10	10	0	0	greater_blight4_torso	-	-	Greater blight [torso]
+422	2000	0	10	10	10	10	10	10	0	0	greater_blight4_head	289:0:0:0:5	-	Greater blight [head]
+423	500	0	10	10	10	10	10	10	0	0	greater_blight4_arm	-	-	Greater blight [left arm]
+424	1000	0	10	10	10	10	10	10	0	0	greater_blight4_legL	292:0:0:0:5	-	Greater blight [left leg]
+425	1000	0	10	10	10	10	10	10	0	0	greater_blight4_legR	292:0:0:0:5	-	Greater blight [right leg]
+426	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+427	1300	0	10	10	10	10	10	10	0	0	greater_mumbler_torso	-	-	Greater mumbler [torso]
+428	400	0	10	10	10	10	10	10	0	0	greater_mumbler_armL	298:0:0:0:5	-	Greater mumbler [left arm]
+429	400	0	10	10	10	10	10	10	0	0	greater_mumbler_armR	297:0:0:0:5	-	Greater mumbler [right arm]
+430	300	0	10	10	10	10	10	10	0	0	greater_mumbler_legL	-	-	Greater mumbler [left leg]
+431	300	0	10	10	10	10	10	10	0	0	greater_mumbler_legR	-	-	Greater mumbler [right leg]
+432	350	0	10	10	10	10	10	10	0	0	greater_mumbler_head	84:0:0:0:5;84:0:0:0:5;83:0:0:0:5	-	Greater mumbler [head]
+433	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+434	2300	0	10	10	12	10	10	11	0	0	eliteguard_torso	6:6:17:0:5	-	Elite guard [torso]
+435	400	0	10	10	10	10	10	10	0	0	eliteguard_head	-	-	Elite guard [head]
+436	350	0	10	10	10	10	10	10	0	0	eliteguard_armR	300:0:0:0:5;301:0:0:0:5	-	Elite guard [right arm]
+437	350	0	10	10	10	10	10	10	0	0	eliteguard_armL	299:0:0:0:5	-	Elite guard [left arm]
+438	20	0	10	10	10	10	10	10	0	0	eliteguard_legR	-	-	Elite guard [right leg]
+439	20	0	10	10	10	10	10	10	0	0	eliteguard_legL	-	-	Elite guard [left leg]
+440	400	0	10	10	10	10	10	10	0	0	eliteguard_stinger	4:1:1:1:3;5:0:0:0:5;5:0:0:0:5	-	Elite guard [stinger]
+441	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+442	1400	0	10	10	10	10	10	10	0	0	hound_torso	-	-	Jaggedjaw [torso]
+443	20	0	10	10	10	10	10	10	0	0	hound_head	306:0:0:0:5	-	Jaggedjaw [head]
+444	20	0	10	10	10	10	10	10	0	0	hound_frontlegs	-	-	Jaggedjaw [front paws]
+445	20	0	10	10	10	10	10	10	0	0	hound_backlegs	-	-	Jaggedjaw [hind paws]
+446	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+447	10000	0	10	10	12	10	10	11	0	0	gigaloth_torso2	-	-	Traces of Sylvian [torso]
+448	2000	0	10	10	10	10	10	10	0	0	gigaloth_left_tentacle1	308:0:0:0:5;316:0:0:0:5	-	Sylvian [left tentacle 1]
+449	1500	0	10	10	10	10	10	10	0	0	gigaloth_left_tentacle2	315:0:0:0:5;316:0:0:0:5	-	Sylvian [left tentacle 2]
+450	2000	0	10	10	10	10	10	10	0	0	gigaloth_right_tentacle1	308:0:0:0:5;316:0:0:0:5	-	Sylvian [right tentacle 1]
+451	1500	0	10	10	10	10	10	10	0	0	gigaloth_right_tentacle2	315:0:0:0:5;316:0:0:0:5	-	Sylvian [right tentacle 2]
+452	5000	0	10	10	10	10	10	10	0	0	gigaloth_head	-	-	Sylvian [head]
+453	5000	0	10	10	10	10	10	10	0	0	gigaloth_blank	-	-	Sylvian [tumor]
+454	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+455	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+456	900	0	10	10	12	10	10	11	0	0	uterus_embryo_standing2	310:0:0:0:5;311:0:0:0:5	-	Embryo
+457	3900	0	30	10	10	10	10	10	0	0	yellow_lizard1_torso	-	-	Yellow lizardmage [torso]
+458	400	0	30	10	10	10	10	10	0	0	yellow_lizard1_head	-	-	Yellow lizardmage [head]
+459	750	0	30	10	10	10	10	10	0	0	yellow_lizard1_armL	35:0:0:0:5;36:0:0:0:5;38:0:0:0:5	-	Yellow lizardmage [left arm]
+460	750	0	10	10	10	10	10	10	0	0	yellow_lizard1_armR	49:0:0:0:5;125:0:0:0:5;43:0:0:0:5;44:0:0:0:5	-	Yellow lizardmage [right arm]
+461	20	0	30	10	10	10	10	10	0	0	yellow_lizard1_legL	-	-	Yellow lizardmage [left leg]
+462	20	0	30	10	10	10	10	10	0	0	yellow_lizard1_legR	-	-	Yellow lizardmage [right leg]
+463	20	0	30	10	10	10	10	10	0	0	yellow_lizard1_tail	24:6:17:0:5	-	Yellow lizardmage [tail]
+464	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+465	3000	0	10	10	12	10	10	11	0	0	seymor_torso	6:6:17:0:5	-	Ser Seymor [torso]
+466	200	0	10	10	10	10	10	10	0	0	seymor_head	-	-	Ser Seymor [head]
+467	700	0	10	10	10	10	10	10	0	0	seymor_hands	47:0:0:0:5;45:0:0:0:5;46:0:0:0:5	-	Ser Seymor [claymore]
+468	20	0	10	10	10	10	10	10	0	0	seymor_legR	-	-	Ser Seymor [right leg]
+469	20	0	10	10	10	10	10	10	0	0	seymor_legL	-	-	Ser Seymor [left leg]
+470	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+471	2700	0	10	10	10	10	10	10	0	0	gigaloth_cahara	310:0:0:0:5;207:0:0:0:5	-	Sylvian [tumor]
+472	2700	0	10	10	10	10	10	10	0	0	gigaloth_darce	206:0:0:0:5;207:0:0:0:5	-	Sylvian [tumor]
+473	2700	0	10	10	10	10	10	10	0	0	gigaloth_enki	128:0:0:0:5;49:0:0:0:5	-	Sylvian [tumor]
+474	2700	0	10	10	10	10	10	10	0	0	gigaloth_ragnvaldr	211:0:0:0:5;314:0:0:0:5	-	Sylvian [tumor]
+475	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+476	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+477	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+478	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+479	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+480	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+481	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+482	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+483	250	0	10	10	10	10	10	10	0	0	guard1_stinger	4:1:1:1:3;5:0:0:0:5;5:0:0:0:5	-	Guard [stinger]
+484	250	0	10	10	10	10	10	10	0	0	guard1_R_hand	-	-	Guard [right arm]
+485	250	0	10	10	10	10	10	10	0	0	guard1_L_hand	3:0:0:0:5	-	Guard [left arm]
+486	2500	0	10	10	12	10	10	11	0	0	guard1_torso	6:6:17:0:5	-	Guard [torso]
+487	2900	0	30	10	10	10	10	10	0	0	lizard_torso	-	-	Lizardman [torso]
+488	2900	0	10	10	10	10	2	10	0	0	cavemother_torso	27:0:0:0:5;28:0:0:0:5;29:0:0:0:5;30:0:0:0:5	-	Cavemother [torso]
+489	2500	0	10	10	10	10	10	10	0	0	cavemother2_torso	-	-	Cavemother [torso]
+490	2500	0	10	10	10	10	10	10	0	0	moonless_torso	-	-	Moonless [torso]
+491	300	0	10	10	10	10	10	10	0	0	tallknight_head	-	-	Old knight [helmet]
+492	300	0	10	10	10	10	10	10	0	0	tallknight_armor	-	-	Old knight [armor]
+493	300	0	10	10	10	10	10	10	0	0	tallknight_armL	-	-	Old knight [left arm]
+494	300	0	10	10	10	10	10	10	0	0	tallknight_armR	47:0:0:0:5;45:0:0:0:5;46:0:0:0:5	-	Old knight [right arm]
+495	300	0	10	10	10	10	10	10	0	0	tallknight_legL	-	-	Old knight [left leg]
+496	300	0	10	10	10	10	10	10	0	0	tallknight_legR	-	-	Old knight [right leg]
+497	1500	0	10	10	10	10	10	10	0	0	yellow_mage_torso	-	-	Yellow mage [torso]
+498	300	0	10	10	10	10	10	10	0	0	yellow_mage_Larm	49:0:0:0:5;125:0:0:0:5	-	Yellow mage [left arm]
+499	1500	0	10	10	10	10	10	10	0	0	night_lurch_torso	-	-	Night lurch [torso]
+500	250	0	10	10	10	10	10	10	0	0	night_lurch_Larm	41:0:0:0:5	-	Night lurch [left arm]
+501	250	0	10	10	10	10	10	10	0	0	night_lurch_Rarm	41:0:0:0:5	-	Night lurch [right arm]
+502	2500	0	10	10	10	10	10	10	0	0	ballista_torso	6:6:17:0:5	-	Guard [torso]
+503	500	0	10	10	10	10	10	10	0	0	ballista_ballista	-	-	Guard [ballista]
+504	7000	0	10	10	10	10	10	10	0	0	mauler_torso	-	-	Crow Mauler [torso]
+505	900	0	10	10	10	10	10	10	0	0	mauler_head	-	-	Crow Mauler [head]
+506	2500	0	10	10	6	10	10	10	0	0	harvestman_torso	6:6:17:0:5	-	Harvestman [torso]
+507	300	0	10	10	10	10	10	10	0	0	harvestman_armL	95:0:0:0:5	-	Harvestman [left arm]
+508	300	0	10	10	10	10	10	10	0	0	harvestman_armR	95:0:0:0:5	-	Harvestman [right arm]
+509	3200	0	10	10	10	10	10	10	0	0	iron_shakespere_torso	-	-	Iron Shakespeare [torso]
+510	5000	0	10	10	10	10	10	10	0	0	tormented_one_secondform_1_ring	132:0:0:0:5;247:0:0:0:5	-	Tormented one [1st circle]
+511	1700	0	10	10	10	10	10	10	0	0	dweller3_torso	-	-	Cavedweller [torso]
+512	900	0	10	10	10	10	10	10	0	0	mauler_armL	93:0:0:0:5	-	Crow Mauler [left arm]
+513	300	0	10	10	10	10	10	10	0	0	yellow_mage_Rarm	44:0:0:0:5	-	Yellow mage [right arm]
+514	2500	0	10	10	12	10	10	11	0	0	black_witch_torso	-	-	Black witch [torso]
+515	400	0	10	10	10	10	10	10	0	0	black_witch_armL	175:0:0:0:5	-	Black witch [left arm]
+516	400	0	10	10	10	10	10	10	0	0	black_witch_armR	166:0:0:0:5	-	Black witch [right arm]
+517	9000	0	10	10	10	10	2	10	0	0	valteil_head	-	-	Valteil [head]
+518	3500	0	10	10	10	10	10	10	0	0	valteil_right_hemisphere	184:0:0:0:5;187:0:0:0:3	-	Valteil [right-brain]
+519	3500	0	10	10	10	10	10	10	0	0	valteil_left_hemisphere	186:0:0:0:5;183:0:0:0:5	-	Valteil [left-brain]
+520	600	0	10	10	10	10	10	10	0	0	skin_granny_arm_R	41:0:0:0:5	-	Skin granny [right arm]
+521	600	0	10	10	10	10	10	10	0	0	skin_granny_arm_L	41:0:0:0:5	-	Skin granny [left arm]
+522	600	0	10	10	10	10	10	10	0	0	skin_granny_arm_m	41:0:0:0:5	-	Skin granny [middle arm]
+523	6500	0	10	10	12	10	10	11	0	0	francois_torso	6:6:17:0:5	-	Francois [torso]
+524	1200	0	10	10	10	10	10	10	0	0	francois_armR	196:0:0:0:5	-	Francois [right arm]
+525	1200	0	10	10	10	10	10	10	0	0	francois_armL	245:0:0:0:5	-	Francois [left arm]
+526	3100	0	10	10	12	10	10	11	0	0	moonless_guard_torso	6:6:17:0:5;214:0:0:0:5	-	Moonless guard [torso]
+527	300	0	10	10	10	10	10	10	0	0	moonless_guard_armR	-	-	Moonless guard [right arm]
+528	300	0	10	10	10	10	10	10	0	0	moonless_guard_armL	3:0:0:0:5	-	Moonless guard [left arm]
+529	7000	0	10	10	10	10	10	10	0	0	mauler2_torso	-	-	Crow Mauler [torso]
+530	900	0	10	10	10	10	10	10	0	0	mauler2_headL	-	-	Crow Mauler [left head]
+531	900	0	10	10	10	10	10	10	0	0	mauler2_headR	-	-	Crow Mauler [right head]
+532	900	0	10	10	10	10	10	10	0	0	mauler2_armL	93:0:0:0:5	-	Crow Mauler [left arm]
+533	2900	0	10	10	12	10	10	11	0	0	tomb_raider_torso	6:6:17:0:5	-	Body snatcher [torso]
+534	2600	0	10	10	10	10	10	10	0	0	greater_mumbler_torso	-	-	Greater mumbler [torso]
+535	3200	0	10	10	12	10	10	11	0	0	eliteguard_torso	6:6:17:0:5	-	Elite guard [torso]
+536	500	0	10	10	10	10	10	10	0	0	eliteguard_armR	300:0:0:0:5;301:0:0:0:5	-	Elite guard [right arm]
+537	500	0	10	10	10	10	10	10	0	0	eliteguard_armL	299:0:0:0:5	-	Elite guard [left arm]
+538	500	0	10	10	10	10	10	10	0	0	eliteguard_stinger	4:1:1:1:3;5:0:0:0:5;5:0:0:0:5	-	Elite guard [stinger]
+539	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+540	3200	0	10	10	12	10	10	11	0	0	marriage_torso	6:6:17:0:5	-	Marriage of flesh [torso]
+541	400	0	10	10	10	10	10	10	0	0	marriage_head1	-	-	Marriage of flesh [head]
+542	500	0	10	10	10	10	10	10	0	0	marriage_armR	44:6:3239:0:5;49:6:3239:0:5	-	Marriage of flesh [right arm]
+543	500	0	10	10	10	10	10	10	0	0	marriage_armL	324:0:0:0:5	-	Marriage of flesh [left arm]
+544	20	0	10	10	10	10	10	10	0	0	marriage_legR	-	-	Marriage of flesh [right leg]
+545	20	0	10	10	10	10	10	10	0	0	marriage_legL	-	-	Marriage of flesh [left leg]
+546	400	0	10	10	10	10	10	10	0	0	marriage_head2	-	-	Marriage of flesh [head 2]
+547	20	0	10	10	10	10	10	10	0	0	marriage_penis	-	-	Marriage of flesh [penis]
+548	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+549	2700	0	10	10	10	10	10	10	0	0	ragnvaldr2_torso	-	-	Ragnvaldr [torso]
+550	20	0	10	10	10	10	10	10	0	0	ragnvaldr2_head	282:0:0:0:5	-	Ragnvaldr [brain flower head]
+551	250	0	10	10	10	10	10	10	0	0	ragnvaldr2_armR	324:0:0:0:5	-	Ragnvaldr [right arm]
+552	250	0	10	10	10	10	10	10	0	0	ragnvaldr2_armL	326:6:3241:0:5	-	Ragnvaldr [left arm]
+553	20	0	10	10	10	10	10	10	0	0	ragnvaldr2_legL	-	-	Ragnvaldr [left leg]
+554	20	0	10	10	10	10	10	10	0	0	ragnvaldr_legR	-	-	Ragnvaldr [right leg]
+555	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+556	700	0	10	10	10	10	10	10	0	0	cahara_Larm_miasma	329:0:0:0:5	-	Cahara [Miasma]
+557	700	0	10	10	10	10	10	10	0	0	darce_armL_miasma	329:0:0:0:5	-	D'arce [Miasma]
+558	700	0	10	10	10	10	10	10	0	0	enki_armR_miasma	329:0:0:0:5	-	Enki [Miasma]
+559	700	0	10	10	10	10	10	10	0	0	ragnvaldr2_armR_miasma	329:0:0:0:5	-	Ragnvaldr [Miasma]
+560	20	0	10	10	10	10	10	10	0	0	cahara_head_miasma	-	-	Cahara [head]
+561	20	0	10	10	10	10	10	10	0	0	darce_head_miasma	-	-	D'arce [head]
+562	20	0	10	10	10	10	10	10	0	0	enki_head_miasma	-	-	Enki [head]
+563	20	0	10	10	10	10	10	10	0	0	ragnvaldr_head_miasma	-	-	Ragnvaldr [head]
+564	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+565	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+566	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+567	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+568	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+569	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+570	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+571	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+572	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+573	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+574	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+575	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+576	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+577	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+578	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+579	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+580	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+581	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+582	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+583	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+584	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+585	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+586	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+587	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+588	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+589	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+590	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+591	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+592	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+593	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+594	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+595	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+596	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+597	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+598	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+599	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	
+600	100	0	10	10	10	10	10	10	0	0	-	1:0:0:0:5	-	

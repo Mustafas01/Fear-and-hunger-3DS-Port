@@ -1,0 +1,9 @@
+Mines_A1
+Mines_B
+Mines_C
+Inside_B
+Mines_D
+-
+-
+-
+-

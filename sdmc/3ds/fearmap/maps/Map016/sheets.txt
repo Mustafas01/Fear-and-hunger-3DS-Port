@@ -1,0 +1,9 @@
+Village_A1
+Village_B
+Mines_A1
+Village_C
+Village_D
+-
+-
+-
+-

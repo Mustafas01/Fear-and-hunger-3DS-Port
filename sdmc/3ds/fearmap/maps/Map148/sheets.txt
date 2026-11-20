@@ -1,0 +1,9 @@
+Ancient_ruins_A
+Ancient_ruins_B
+Ancient_inside_B
+Ancient_ruins_C
+Ancient_inside_C
+-
+-
+-
+-
