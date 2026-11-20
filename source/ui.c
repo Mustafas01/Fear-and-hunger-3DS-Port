@@ -555,6 +555,7 @@ void uiRender(void) {
     if (!s_bottom) return;
     C2D_TargetClear(s_bottom, COL_BG);
     C2D_SceneBegin(s_bottom);
+    text(8, 222, 2, RGBA8(255, 255, 255), "HELLO 3DS");
 
     switch (s_mode) {
         case UI_MODE_COMBAT:    drawCombat();    break;
